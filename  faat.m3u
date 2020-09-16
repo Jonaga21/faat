@@ -1,0 +1,2576 @@
+#EXTM3U
+#EXTINF:0 group-title="LOKAL",MNCTV
+https://raw.githubusercontent.com/zalindo/tv/master/mnctv.m3u8
+#EXTINF:0 group-title="LOKAL",MNCTV HD
+https://raw.githubusercontent.com/zalindo/tv/master/mnctvsd.m3u8
+#EXTINF:0 group-title="LOKAL",GLOBAL TV SD
+https://raw.githubusercontent.com/zalindo/tv/master/global.m3u8
+#EXTINF:0 group-title="LOKAL",GLOBAL TV HD
+https://raw.githubusercontent.com/zalindo/tv/master/globalsd.m3u8
+#EXTINF:0 group-title="LOKAL",RCTI
+https://raw.githubusercontent.com/zalindo/tv/master/rcti.m3u8
+#EXTINF:0 group-title="LOKAL",RCTI HD
+https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8
+#EXTINF:0 group-title="LOKAL",TRANS7
+https://chama.ml/channelgratisan-TRANS7
+#EXTINF:0 group-title="LOKAL",TRANSTV
+https://chama.ml/channelgratisan-TRANSTV
+#EXTINF:-1 group-title="LOKAL ", TransTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
+#EXTINF:0 group-title="LOKAL",NETTV
+https://chama.ml/channelgratisan-NET
+#EXTINF:0 group-title="LOKAL",INDOSIAR
+https://chama.ml/channelgratisan-INDOSIAR
+EXTINF:-1 group-title="LOKAL", Indosiar
+https://mkctv.net/video/indosiar.m3u8  
+#EXTINF:0  group-title="LOKAL",KOMPASTV
+https://chama.ml/channelgratisan-KOMPASTV 
+#EXTINF:-1 group-title="LOKAL FTA", Kompas TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:0 group-title="LOKAL",MNCTV
+https://chama.ml/channelgratisan-MNCTV
+#EXTINF:0 group-title="LOKAL",TVONE
+https://chama.ml/channelgratisan-TVONE
+#EXTINF:-1,Bein Baby HD
+http://mr4k.pk:8080/N5346/N3567/33601
+#EXTINF:-1,Kid- Toyor Aljana
+http://mr4k.pk:8080/N5346/N3567/33602
+#EXTINF:-1,Kid- Oggy 1 TV
+http://mr4k.pk:8080/N5346/N3567/33603
+#EXTINF:-1,Kid- Oggy 2 TV
+http://mr4k.pk:8080/N5346/N3567/33604
+#EXTINF:-1,Kid- Shaun the Sheep 1
+http://mr4k.pk:8080/N5346/N3567/33605
+#EXTINF:-1,Kid- Shun The Sheep 2
+http://mr4k.pk:8080/N5346/N3567/33606
+#EXTINF:-1,Kid- Sanafir
+http://mr4k.pk:8080/N5346/N3567/33607
+#EXTINF:-1,Kid- SpaceToon
+http://mr4k.pk:8080/N5346/N3567/33608
+#EXTINF:-1,Kid- Cartoon network arabic
+http://mr4k.pk:8080/N5346/N3567/33609
+#EXTINF:-1,Kid- Nickelodeon HD
+http://mr4k.pk:8080/N5346/N3567/33610
+#EXTINF:-1,Kid- Disney HD
+http://mr4k.pk:8080/N5346/N3567/33611
+#EXTINF:-1,Kid- Nick Jr HD
+http://mr4k.pk:8080/N5346/N3567/33612
+#EXTINF:-1,Kid- NickToon HD
+http://mr4k.pk:8080/N5346/N3567/33613
+#EXTINF:-1,Kid- Disney XD HD
+http://mr4k.pk:8080/N5346/N3567/33614
+#EXTINF:-1,Kid- Disney Junior HD
+http://mr4k.pk:8080/N5346/N3567/33615
+#EXTINF:-1,Kid- Kids Zone HD
+http://mr4k.pk:8080/N5346/N3567/33616
+#EXTINF:-1,Kid- Baby TV
+http://mr4k.pk:8080/N5346/N3567/33617
+#EXTINF:-1,Kid- Kokky Kids TV
+http://mr4k.pk:8080/N5346/N3567/33618
+#EXTINF:-1,Kid- Mickey Channel
+http://mr4k.pk:8080/N5346/N3567/33619
+#EXTINF:-1,Kid- Karamesh
+http://mr4k.pk:8080/N5346/N3567/33620
+#EXTINF:-1,Kid- Ajyal HD
+http://mr4k.pk:8080/N5346/N3567/33621
+#EXTINF:-1,Kid- Majid Kids TV
+http://mr4k.pk:8080/N5346/N3567/33622
+#EXTINF:-1,Kid- Majid 7
+http://mr4k.pk:8080/N5346/N3567/33623
+#EXTINF:-1,Kid- Taha TV
+http://mr4k.pk:8080/N5346/N3567/33624
+#EXTINF:-1,Kid- Kuwait Kids
+http://mr4k.pk:8080/N5346/N3567/33625
+#EXTINF:-1,Kid- Atfal & mawaheb
+http://mr4k.pk:8080/N5346/N3567/33626
+#EXTINF:-1,Kid- Tom and Jerry 1
+http://mr4k.pk:8080/N5346/N3567/33627
+#EXTINF:-1,Kid- HodHod  TV
+http://mr4k.pk:8080/N5346/N3567/33628
+#EXTINF:-1,Kid- Nels TV
+http://mr4k.pk:8080/N5346/N3567/33629
+#EXTINF:-1,ARG: Film & Arts
+http://mr4k.pk:8080/N5346/N3567/41659
+#EXTINF:-1,ARG: FOX Channel
+http://mr4k.pk:8080/N5346/N3567/41660
+#EXTINF:-1,ARG: FOX Life
+http://mr4k.pk:8080/N5346/N3567/41661
+#EXTINF:-1,ARG FOX Life
+http://mr4k.pk:8080/N5346/N3567/41662
+#EXTINF:-1,ARG: FOX NEWS Channel
+http://mr4k.pk:8080/N5346/N3567/41663
+#EXTINF:-1,ARG: FOX PREMIUM ACTION
+http://mr4k.pk:8080/N5346/N3567/41664
+#EXTINF:-1,ARG: FOX PREMIUM CINEMA HD
+http://mr4k.pk:8080/N5346/N3567/41665
+#EXTINF:-1,ARG: FOX PREMIUM CLASSICS HD
+http://mr4k.pk:8080/N5346/N3567/41666
+#EXTINF:-1,ARG: FOX PREMIUM COMEDY HD
+http://mr4k.pk:8080/N5346/N3567/41667
+#EXTINF:-1,ARG: FOX PREMIUM FAMILY
+http://mr4k.pk:8080/N5346/N3567/41668
+#EXTINF:-1,ARG: FOX PREMIUM Movies HD
+http://mr4k.pk:8080/N5346/N3567/41669
+#EXTINF:-1,ARG: FOX PREMIUM Series HD
+http://mr4k.pk:8080/N5346/N3567/41670
+#EXTINF:-1,AR: Alkaicer Action Movies
+http://mr4k.pk:8080/N5346/N3567/43457
+#EXTINF:-1,AR: Alkaicer B Cinema
+http://mr4k.pk:8080/N5346/N3567/43458
+#EXTINF:-1,AR: Alkaicer Box Movies
+http://mr4k.pk:8080/N5346/N3567/43459
+#EXTINF:-1,AR: Alkaicer Cinema One
+http://mr4k.pk:8080/N5346/N3567/43460
+#EXTINF:-1,AR: Alkaicer Comedy Movies
+http://mr4k.pk:8080/N5346/N3567/43461
+#EXTINF:-1,AR: Alkaicer Disney Movies
+http://mr4k.pk:8080/N5346/N3567/43462
+#EXTINF:-1,AR Alkaicer Disney Movies
+http://mr4k.pk:8080/N5346/N3567/43463
+#EXTINF:-1,AR: Alkaicer Famely Movies
+http://mr4k.pk:8080/N5346/N3567/43464
+#EXTINF:-1,AR: Alkaicer KidsCo Movies
+http://mr4k.pk:8080/N5346/N3567/43465
+#EXTINF:-1,AR: Alkaicer MasterPiece Movies
+http://mr4k.pk:8080/N5346/N3567/43466
+#EXTINF:-1,AR: Alkaicer Premiere Movies
+http://mr4k.pk:8080/N5346/N3567/43467
+#EXTINF:-1,AR: Alkaicer The Movies
+http://mr4k.pk:8080/N5346/N3567/43468
+#EXTINF:-1,AR: Alkaicer The Movies 2
+http://mr4k.pk:8080/N5346/N3567/43469
+#EXTINF:-1,AR: Alkaicer Thriller Movies
+http://mr4k.pk:8080/N5346/N3567/43470
+#EXTINF:-1,AR: Alkaicer W Movies
+http://mr4k.pk:8080/N5346/N3567/43471
+#EXTINF:-1,DE: Boomerang FHD
+http://mr4k.pk:8080/N5346/N3567/43631
+#EXTINF:-1,DE: BOSS Movies 1 HD
+http://mr4k.pk:8080/N5346/N3567/43632
+#EXTINF:-1,DE: BOSS Movies 2 HD
+http://mr4k.pk:8080/N5346/N3567/43633
+#EXTINF:-1,DE: BOSS Movies 3 HD
+http://mr4k.pk:8080/N5346/N3567/43634
+#EXTINF:-1,DE: BOSS Movies 4 HD
+http://mr4k.pk:8080/N5346/N3567/43635
+#EXTINF:-1,DE: BOXING
+http://mr4k.pk:8080/N5346/N3567/43636
+#EXTINF:-1,DE: Chemnitz TV HD
+http://mr4k.pk:8080/N5346/N3567/43650
+#EXTINF:-1,DE: CINE 1
+http://mr4k.pk:8080/N5346/N3567/43651
+#EXTINF:-1,DE: CINE 2
+http://mr4k.pk:8080/N5346/N3567/43652
+#EXTINF:-1,DE: CINE 3
+http://mr4k.pk:8080/N5346/N3567/43653
+#EXTINF:-1,DE: CINE 4
+http://mr4k.pk:8080/N5346/N3567/43654
+#EXTINF:-1,DE: CINE 5
+http://mr4k.pk:8080/N5346/N3567/43655
+#EXTINF:-1,DE: CINE BOX
+http://mr4k.pk:8080/N5346/N3567/43656
+#EXTINF:-1,DE: Cine Box 1 HD
+http://mr4k.pk:8080/N5346/N3567/43657
+#EXTINF:-1,DE: Cine Box 2 HD
+http://mr4k.pk:8080/N5346/N3567/43658
+#EXTINF:-1,DE: Cine Box 3 HD
+http://mr4k.pk:8080/N5346/N3567/43659
+#EXTINF:-1,DE: CINE FILM CLUB 5 HD
+http://mr4k.pk:8080/N5346/N3567/43660
+#EXTINF:-1,DE: CINE SELECT 1 HD
+http://mr4k.pk:8080/N5346/N3567/43661
+#EXTINF:-1,DE: CINE SELECT 2 HD
+http://mr4k.pk:8080/N5346/N3567/43662
+#EXTINF:-1,DE: CINE SELECT 3 HD
+http://mr4k.pk:8080/N5346/N3567/43663
+#EXTINF:-1,DE: CINE SELECT 4 HD
+http://mr4k.pk:8080/N5346/N3567/43664
+#EXTINF:-1,DE: CINE SELECT 5 HD
+http://mr4k.pk:8080/N5346/N3567/43665
+#EXTINF:-1,DE: Cinedome Action
+http://mr4k.pk:8080/N5346/N3567/43666
+#EXTINF:-1,DE: Cinedome Animation
+http://mr4k.pk:8080/N5346/N3567/43667
+#EXTINF:-1,DE: Cinedome Cinema
+http://mr4k.pk:8080/N5346/N3567/43668
+#EXTINF:-1,DE: Cinedome Comedy
+http://mr4k.pk:8080/N5346/N3567/43669
+#EXTINF:-1,DE: Cinedome Familie
+http://mr4k.pk:8080/N5346/N3567/43670
+#EXTINF:-1,DE: Cinedome Hits
+http://mr4k.pk:8080/N5346/N3567/43671
+#EXTINF:-1,DE: Cinedome Horror
+http://mr4k.pk:8080/N5346/N3567/43672
+#EXTINF:-1,DE: Cinedome Marvel
+http://mr4k.pk:8080/N5346/N3567/43673
+#EXTINF:-1,DE: CineGold Kinder Anime 24/7
+http://mr4k.pk:8080/N5346/N3567/43674
+#EXTINF:-1,DE: CiNEMA 1 HD
+http://mr4k.pk:8080/N5346/N3567/43675
+#EXTINF:-1,DE: CiNEMA 2 HD
+http://mr4k.pk:8080/N5346/N3567/43676
+#EXTINF:-1,DE: CiNEMA 3 HD
+http://mr4k.pk:8080/N5346/N3567/43677
+#EXTINF:-1,DE: Cinema 24
+http://mr4k.pk:8080/N5346/N3567/43678
+#EXTINF:-1,DE: EAGLE CINEMA
+http://mr4k.pk:8080/N5346/N3567/43743
+#EXTINF:-1,DE: Eagle Cinema 007 HD
+http://mr4k.pk:8080/N5346/N3567/43744
+#EXTINF:-1,DE: Eagle Cinema Abenteuer FHD
+http://mr4k.pk:8080/N5346/N3567/43745
+#EXTINF:-1,DE: Eagle Cinema Aktion FHD
+http://mr4k.pk:8080/N5346/N3567/43746
+#EXTINF:-1,DE: Eagle Cinema Animation FHD
+http://mr4k.pk:8080/N5346/N3567/43747
+#EXTINF:-1,DE: Eagle Cinema Biografie FHD
+http://mr4k.pk:8080/N5346/N3567/43748
+#EXTINF:-1,DE: Eagle Cinema Drama FHD
+http://mr4k.pk:8080/N5346/N3567/43749
+#EXTINF:-1,DE: Eagle Cinema Familie FHD
+http://mr4k.pk:8080/N5346/N3567/43750
+#EXTINF:-1,DE: Eagle Cinema Fantasie FHD
+http://mr4k.pk:8080/N5346/N3567/43751
+#EXTINF:-1,DE: Eagle Cinema Geschichte FHD
+http://mr4k.pk:8080/N5346/N3567/43752
+#EXTINF:-1,DE: Eagle Cinema Horror FHD
+http://mr4k.pk:8080/N5346/N3567/43753
+#EXTINF:-1,DE: Eagle Cinema KINOSAAL
+http://mr4k.pk:8080/N5346/N3567/43754
+#EXTINF:-1,DE: EAGLE CINEMA KOMEDIE HD
+http://mr4k.pk:8080/N5346/N3567/43755
+#EXTINF:-1,DE: Eagle Cinema Komodie FHD
+http://mr4k.pk:8080/N5346/N3567/43756
+#EXTINF:-1,DE: Eagle Cinema Lheln FHD
+http://mr4k.pk:8080/N5346/N3567/43757
+#EXTINF:-1,DE: Eagle Cinema Mythologie FHD
+http://mr4k.pk:8080/N5346/N3567/43758
+#EXTINF:-1,DE: Eagle Cinema Premiere FHD
+http://mr4k.pk:8080/N5346/N3567/43759
+#EXTINF:-1,DE: Eagle Cinema Religion FHD
+http://mr4k.pk:8080/N5346/N3567/43760
+#EXTINF:-1,DE: Eagle Cinema Romantisch FHD
+http://mr4k.pk:8080/N5346/N3567/43761
+#EXTINF:-1,DE: Eagle Cinema sci-fi FHD
+http://mr4k.pk:8080/N5346/N3567/43762
+#EXTINF:-1,DE: Eagle Cinema Thriller HD
+http://mr4k.pk:8080/N5346/N3567/43763
+#EXTINF:-1,DE: VH1 Classic
+http://mr4k.pk:8080/N5346/N3567/44076
+#EXTINF:-1,Br- HBO HD
+http://mr4k.pk:8080/N5346/N3567/44077
+#EXTINF:-1,Br- HBO 2 HD
+http://mr4k.pk:8080/N5346/N3567/44078
+#EXTINF:-1,Br- HBO Family HD
+http://mr4k.pk:8080/N5346/N3567/44079
+#EXTINF:-1,Br- HBO Plus HD
+http://mr4k.pk:8080/N5346/N3567/44080
+#EXTINF:-1,Br- HBO Plus*e HD
+http://mr4k.pk:8080/N5346/N3567/44081
+#EXTINF:-1,Br- HBO Signature HD
+http://mr4k.pk:8080/N5346/N3567/44082
+#EXTINF:-1,Br- HBO Mundi HD
+http://mr4k.pk:8080/N5346/N3567/44083
+#EXTINF:-1,Br- HBO Extreme HD
+http://mr4k.pk:8080/N5346/N3567/44084
+#EXTINF:-1,Br- HBO Mundi SD
+http://mr4k.pk:8080/N5346/N3567/44085
+#EXTINF:-1,Br- HBO Pop HD
+http://mr4k.pk:8080/N5346/N3567/44086
+#EXTINF:-1,Br- Premiere 1 SD
+http://mr4k.pk:8080/N5346/N3567/44087
+#EXTINF:-1,Br- Premiere 2 HD
+http://mr4k.pk:8080/N5346/N3567/44088
+#EXTINF:-1,Br- Premiere 3 HD
+http://mr4k.pk:8080/N5346/N3567/44089
+#EXTINF:-1,Br- Premiere 4 HD
+http://mr4k.pk:8080/N5346/N3567/44090
+#EXTINF:-1,Br- Premiere 5 HD
+http://mr4k.pk:8080/N5346/N3567/44091
+#EXTINF:-1,Br- Premiere 6 HD
+http://mr4k.pk:8080/N5346/N3567/44092
+#EXTINF:-1,Br- Premiere 7 SD
+http://mr4k.pk:8080/N5346/N3567/44093
+#EXTINF:-1,Br- Premiere 8 SD
+http://mr4k.pk:8080/N5346/N3567/44094
+#EXTINF:-1,Br- Premiere Clubes HD
+http://mr4k.pk:8080/N5346/N3567/44095
+#EXTINF:-1,Br- ID Investigao Discovery HD
+http://mr4k.pk:8080/N5346/N3567/44096
+#EXTINF:-1,Br- Record SP Full HD
+http://mr4k.pk:8080/N5346/N3567/44097
+#EXTINF:-1,Br- Record TV Vitoria SD
+http://mr4k.pk:8080/N5346/N3567/44098
+#EXTINF:-1,Br- TV Sulo 21
+http://mr4k.pk:8080/N5346/N3567/44099
+#EXTINF:-1,Br- ESPN Extra HD
+http://mr4k.pk:8080/N5346/N3567/44100
+#EXTINF:-1,Br- TV Ra Tim Bum SD
+http://mr4k.pk:8080/N5346/N3567/44101
+#EXTINF:-1,Br- Prime Box Brazil SD
+http://mr4k.pk:8080/N5346/N3567/44102
+#EXTINF:-1,FOX CRIME (SLO)
+http://mr4k.pk:8080/N5346/N3567/11540
+#EXTINF:-1,FOX LIFE (SLO)
+http://mr4k.pk:8080/N5346/N3567/11541
+#EXTINF:-1,FOX HD (SLO)
+http://mr4k.pk:8080/N5346/N3567/11542
+#EXTINF:-1,FOX MOVIES HD (SLO)
+http://mr4k.pk:8080/N5346/N3567/11543
+#EXTINF:-1,PLANET TV (SLO)
+http://mr4k.pk:8080/N5346/N3567/11544
+#EXTINF:-1,PINK
+http://mr4k.pk:8080/N5346/N3567/11545
+#EXTINF:-1,PINK L2
+http://mr4k.pk:8080/N5346/N3567/11546
+#EXTINF:-1,NOVA BH L2 (BIH)
+http://mr4k.pk:8080/N5346/N3567/11547
+#EXTINF:-1,PINK PLUS
+http://mr4k.pk:8080/N5346/N3567/11548
+#EXTINF:-1,PINK 2
+http://mr4k.pk:8080/N5346/N3567/11549
+#EXTINF:-1,PINK 3
+http://mr4k.pk:8080/N5346/N3567/11550
+#EXTINF:-1,NOVA M (CG)
+http://mr4k.pk:8080/N5346/N3567/11551
+#EXTINF:-1,PINK ACTION
+http://mr4k.pk:8080/N5346/N3567/11552
+#EXTINF:-1,PINK CLASSIC
+http://mr4k.pk:8080/N5346/N3567/11553
+#EXTINF:-1,PINK COMEDY
+http://mr4k.pk:8080/N5346/N3567/11554
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://mr4k.pk:8080/N5346/N3567/11555
+#EXTINF:-1,PINK FILM
+http://mr4k.pk:8080/N5346/N3567/11556
+#EXTINF:-1,PINK HORROR
+http://mr4k.pk:8080/N5346/N3567/11557
+#EXTINF:-1,PINK KUVAR (DOC)
+http://mr4k.pk:8080/N5346/N3567/11558
+#EXTINF:-1,PINK MOVIES
+http://mr4k.pk:8080/N5346/N3567/11559
+#EXTINF:-1,PINK PREMIUM
+http://mr4k.pk:8080/N5346/N3567/11560
+#EXTINF:-1,PINK REALITY
+http://mr4k.pk:8080/N5346/N3567/11561
+#EXTINF:-1,PINK ROMANCE
+http://mr4k.pk:8080/N5346/N3567/11562
+#EXTINF:-1,PINK SCI FI & FANTASY
+http://mr4k.pk:8080/N5346/N3567/11563
+#EXTINF:-1,PINK SERIJE
+http://mr4k.pk:8080/N5346/N3567/11564
+#EXTINF:-1,PINK SOAP
+http://mr4k.pk:8080/N5346/N3567/11565
+#EXTINF:-1,PINK THRILLER
+http://mr4k.pk:8080/N5346/N3567/11566
+#EXTINF:-1,PINK WESTERN
+http://mr4k.pk:8080/N5346/N3567/11567
+#EXTINF:-1,PINK WORLD
+http://mr4k.pk:8080/N5346/N3567/11568
+#EXTINF:-1,PINK ZABAVA
+http://mr4k.pk:8080/N5346/N3567/11569
+#EXTINF:-1,PINK EXTRA
+http://mr4k.pk:8080/N5346/N3567/11570
+#EXTINF:-1,PINK HAHA
+http://mr4k.pk:8080/N5346/N3567/11571
+#EXTINF:-1,PINK LOL
+http://mr4k.pk:8080/N5346/N3567/11572
+#EXTINF:-1,PINK KONCERT
+http://mr4k.pk:8080/N5346/N3567/11573
+#EXTINF:-1,PINK MEDIA BH
+http://mr4k.pk:8080/N5346/N3567/11574
+#EXTINF:-1,PINK WORLD CINEMA
+http://mr4k.pk:8080/N5346/N3567/11575
+#EXTINF:-1,HBO ADRIA
+http://mr4k.pk:8080/N5346/N3567/11576
+#EXTINF:-1,HBO 2
+http://mr4k.pk:8080/N5346/N3567/11577
+#EXTINF:-1,HBO 3 HD
+http://mr4k.pk:8080/N5346/N3567/11578
+#EXTINF:-1,CINESTAR TV
+http://mr4k.pk:8080/N5346/N3567/11579
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://mr4k.pk:8080/N5346/N3567/11580
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://mr4k.pk:8080/N5346/N3567/11581
+#EXTINF:-1,CINESTAR ACTION & THRILLER
+http://mr4k.pk:8080/N5346/N3567/11582
+#EXTINF:-1,CINESTAR FANTASY
+http://mr4k.pk:8080/N5346/N3567/11583
+#EXTINF:-1,CINEMAX 1 HD
+http://mr4k.pk:8080/N5346/N3567/11584
+#EXTINF:-1,CINEMAX 2 HD
+http://mr4k.pk:8080/N5346/N3567/11585
+#EXTINF:-1,M1 FIM
+http://mr4k.pk:8080/N5346/N3567/11586
+#EXTINF:-1,KINO TV HD
+http://mr4k.pk:8080/N5346/N3567/11587
+#EXTINF:-1,FILM KLUB
+http://mr4k.pk:8080/N5346/N3567/11588
+#EXTINF:-1,FILMBOX EXTRA
+http://mr4k.pk:8080/N5346/N3567/11589
+#EXTINF:-1,FILMBOX PLUS
+http://mr4k.pk:8080/N5346/N3567/11590
+#EXTINF:-1,KLASIK TV
+http://mr4k.pk:8080/N5346/N3567/11591
+#EXTINF:-1,TV 1000
+http://mr4k.pk:8080/N5346/N3567/11592
+#EXTINF:-1,DIVA
+http://mr4k.pk:8080/N5346/N3567/11593
+#EXTINF:-1,CINEMANIA
+http://mr4k.pk:8080/N5346/N3567/11594
+#EXTINF:-1,AXN SPIN
+http://mr4k.pk:8080/N5346/N3567/11595
+#EXTINF:-1,AMC
+http://mr4k.pk:8080/N5346/N3567/11596
+#EXTINF:-1,AXN
+http://mr4k.pk:8080/N5346/N3567/11597
+#EXTINF:-1,FOX
+http://mr4k.pk:8080/N5346/N3567/11598
+#EXTINF:-1,FOX MOVIES HD
+http://mr4k.pk:8080/N5346/N3567/11599
+#EXTINF:-1,FOX LIFE HD
+http://mr4k.pk:8080/N5346/N3567/11600
+#EXTINF:-1,FOX CRIME
+http://mr4k.pk:8080/N5346/N3567/11601
+#EXTINF:-1,SCI FI
+http://mr4k.pk:8080/N5346/N3567/11602
+#EXTINF:-1,Balle Balle HD
+http://mr4k.pk:8080/N5346/N3567/44270
+#EXTINF:-1,PTC Punjabi
+http://mr4k.pk:8080/N5346/N3567/44271
+#EXTINF:-1,STAR PLUS HD
+http://mr4k.pk:8080/N5346/N3567/31913
+#EXTINF:-1,VIP: ZEE TV HD
+http://mr4k.pk:8080/N5346/N3567/31918
+#EXTINF:-1,VIP: SONY TV HD
+http://mr4k.pk:8080/N5346/N3567/31921
+#EXTINF:-1,SONY TEN 1 HD
+http://mr4k.pk:8080/N5346/N3567/31926
+#EXTINF:-1,SONY SIX HD
+http://mr4k.pk:8080/N5346/N3567/31930
+#EXTINF:-1,COLORS HD
+http://mr4k.pk:8080/N5346/N3567/31935
+#EXTINF:-1,HBO HD
+http://mr4k.pk:8080/N5346/N3567/31945
+#EXTINF:-1,&PRIVE HD
+http://mr4k.pk:8080/N5346/N3567/31946
+#EXTINF:-1,VIP: &TV HD
+http://mr4k.pk:8080/N5346/N3567/31962
+#EXTINF:-1,VIP: & PICTURES HD
+http://mr4k.pk:8080/N5346/N3567/31977
+#EXTINF:-1,VIP: ZEE CINEMA  UHD
+http://mr4k.pk:8080/N5346/N3567/31981
+#EXTINF:-1,VIP: STAR SPORTS 1 HD
+http://mr4k.pk:8080/N5346/N3567/32004
+#EXTINF:-1,IN: BBC Earth HD
+http://mr4k.pk:8080/N5346/N3567/32664
+#EXTINF:-1,IN- Sony Max 1 HD
+http://mr4k.pk:8080/N5346/N3567/40967
+#EXTINF:-1,IN: COLORS Infinity HD
+http://mr4k.pk:8080/N5346/N3567/44379
+#EXTINF:-1,IN: History TV18 HD
+http://mr4k.pk:8080/N5346/N3567/44494
+#EXTINF:-1,IN: Star Maa HD
+http://mr4k.pk:8080/N5346/N3567/44756
+#EXTINF:-1,IN: STAR WORLD HD
+http://mr4k.pk:8080/N5346/N3567/44768
+#EXTINF:-1,IN: Times Now HD
+http://mr4k.pk:8080/N5346/N3567/44819
+#EXTINF:-1,IN: & PICTURES
+http://mr4k.pk:8080/N5346/N3567/45022
+#EXTINF:-1,IN: &FLIX
+http://mr4k.pk:8080/N5346/N3567/45023
+#EXTINF:-1,IN: &Prive
+http://mr4k.pk:8080/N5346/N3567/45024
+#EXTINF:-1,IN: &TV F
+http://mr4k.pk:8080/N5346/N3567/45025
+#EXTINF:-1,IN: Bhojpori Cinema
+http://mr4k.pk:8080/N5346/N3567/45053
+#EXTINF:-1,IN: Bhojpuri Cinema
+http://mr4k.pk:8080/N5346/N3567/45054
+#EXTINF:-1,IN: Big Ganga
+http://mr4k.pk:8080/N5346/N3567/45055
+#EXTINF:-1,IN: BIG MAGIC Movies OK
+http://mr4k.pk:8080/N5346/N3567/45056
+#EXTINF:-1,IN: BOLLYWOOD CLASSIC
+http://mr4k.pk:8080/N5346/N3567/45057
+#EXTINF:-1,IN: BOLLYWOOD NOW
+http://mr4k.pk:8080/N5346/N3567/45058
+#EXTINF:-1,IN: BOLLYWOOD PREMIER F
+http://mr4k.pk:8080/N5346/N3567/45059
+#EXTINF:-1,IN: Sony AATH
+http://mr4k.pk:8080/N5346/N3567/45107
+#EXTINF:-1,IN: Sony Action
+http://mr4k.pk:8080/N5346/N3567/45108
+#EXTINF:-1,IN: Sony BBC Earth
+http://mr4k.pk:8080/N5346/N3567/45109
+#EXTINF:-1,IN: Sony Channel
+http://mr4k.pk:8080/N5346/N3567/45110
+#EXTINF:-1,IN: Sony Christmas
+http://mr4k.pk:8080/N5346/N3567/45111
+#EXTINF:-1,IN: Sony Entertainment
+http://mr4k.pk:8080/N5346/N3567/45112
+#EXTINF:-1,IN: Sony Marathi
+http://mr4k.pk:8080/N5346/N3567/45113
+#EXTINF:-1,IN: Sony Max 2
+http://mr4k.pk:8080/N5346/N3567/45114
+#EXTINF:-1,IN: Sony Max F
+http://mr4k.pk:8080/N5346/N3567/45115
+#EXTINF:-1,IN: Sony Mix
+http://mr4k.pk:8080/N5346/N3567/45116
+#EXTINF:-1,IN: Sony Movies Action
+http://mr4k.pk:8080/N5346/N3567/45118
+#EXTINF:-1,IN: Sony Movies Action +1
+http://mr4k.pk:8080/N5346/N3567/45119
+#EXTINF:-1,IN: Sony Movies Classic
+http://mr4k.pk:8080/N5346/N3567/45120
+#EXTINF:-1,IN: Sony Movies 
+http://mr4k.pk:8080/N5346/N3567/45122
+#EXTINF:-1,IN: Sony PIX
+http://mr4k.pk:8080/N5346/N3567/45124
+#EXTINF:-1,IN: Sony SAB
+http://mr4k.pk:8080/N5346/N3567/45125
+#EXTINF:-1,IN: Sony SIX
+http://mr4k.pk:8080/N5346/N3567/45126
+#EXTINF:-1,IN: Sony TEN 1
+http://mr4k.pk:8080/N5346/N3567/45127
+#EXTINF:-1,IN: Sony TEN 2
+http://mr4k.pk:8080/N5346/N3567/45128
+#EXTINF:-1,IN: Sony TV Asia
+http://mr4k.pk:8080/N5346/N3567/45129
+#EXTINF:-1,IN: Sony TV UK
+http://mr4k.pk:8080/N5346/N3567/45130
+#EXTINF:-1,IN: Sony WAH
+http://mr4k.pk:8080/N5346/N3567/45131
+#EXTINF:-1,IN: Sony YAY HINDI
+http://mr4k.pk:8080/N5346/N3567/45132
+#EXTINF:-1,IN: STAR PLUS 
+http://mr4k.pk:8080/N5346/N3567/31915
+#EXTINF:-1,ZEE ACTION
+http://mr4k.pk:8080/N5346/N3567/31939
+#EXTINF:-1,SONY MAX 2
+http://mr4k.pk:8080/N5346/N3567/31940
+#EXTINF:-1,COLORS RISHTEY
+http://mr4k.pk:8080/N5346/N3567/31942
+#EXTINF:-1,&TV SD
+http://mr4k.pk:8080/N5346/N3567/31947
+#EXTINF:-1,VIP: &TV
+http://mr4k.pk:8080/N5346/N3567/31963
+#EXTINF:-1,VIP: SONY SAB SD
+http://mr4k.pk:8080/N5346/N3567/31965
+#EXTINF:-1,VIP: SONY PAL
+http://mr4k.pk:8080/N5346/N3567/31967
+#EXTINF:-1,VIP: SONY MAX
+http://mr4k.pk:8080/N5346/N3567/31986
+#EXTINF:-1,VIP: COLORS CINEPLEX
+http://mr4k.pk:8080/N5346/N3567/31994
+#EXTINF:-1,IN- Zee TV HD
+http://mr4k.pk:8080/N5346/N3567/45597
+#EXTINF:-1,IN- Zee Cinema HD
+http://mr4k.pk:8080/N5346/N3567/45599
+#EXTINF:-1,IN- Zee Classic HD
+http://mr4k.pk:8080/N5346/N3567/45601
+#EXTINF:-1,IN- Zee Talkies HD
+http://mr4k.pk:8080/N5346/N3567/45602
+#EXTINF:-1,IN- Zee Action HD
+http://mr4k.pk:8080/N5346/N3567/45604
+#EXTINF:-1,IN- Zee Salaam HD
+http://mr4k.pk:8080/N5346/N3567/45607
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://mr4k.pk:8080/N5346/N3567/45767
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://mr4k.pk:8080/N5346/N3567/45768
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://mr4k.pk:8080/N5346/N3567/45769
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://mr4k.pk:8080/N5346/N3567/45770
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://mr4k.pk:8080/N5346/N3567/45771
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://mr4k.pk:8080/N5346/N3567/45772
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://mr4k.pk:8080/N5346/N3567/45773
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://mr4k.pk:8080/N5346/N3567/45774
+#EXTINF:-1,UK: CBS DRAMA | HD
+http://mr4k.pk:8080/N5346/N3567/45917
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://mr4k.pk:8080/N5346/N3567/45918
+#EXTINF:-1,UK: Sky Cinema Comedy | UHD
+http://mr4k.pk:8080/N5346/N3567/45919
+#EXTINF:-1,UK: Sky Cinema Disney
+http://mr4k.pk:8080/N5346/N3567/45920
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://mr4k.pk:8080/N5346/N3567/45921
+#EXTINF:-1,UK: Sky Cinema Family
+http://mr4k.pk:8080/N5346/N3567/45922
+#EXTINF:-1,UK: Sky Cinema Greats | UHD
+http://mr4k.pk:8080/N5346/N3567/45923
+#EXTINF:-1,UK: Sky Cinema Hits | UHD
+http://mr4k.pk:8080/N5346/N3567/45924
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://mr4k.pk:8080/N5346/N3567/45925
+#EXTINF:-1,UK: Sky Cinema Sci-fi
+http://mr4k.pk:8080/N5346/N3567/45926
+#EXTINF:-1,UK: Sky Cinema Select | HD
+http://mr4k.pk:8080/N5346/N3567/45927
+#EXTINF:-1,UK: Sky Cinema Thriller | HD
+http://mr4k.pk:8080/N5346/N3567/45928
+#EXTINF:-1,UK: Sky Witness | HD
+http://mr4k.pk:8080/N5346/N3567/45929
+#EXTINF:-1,UK: SYFY
+http://mr4k.pk:8080/N5346/N3567/45930
+#EXTINF:-1,UK: True Movies 1 | HD
+http://mr4k.pk:8080/N5346/N3567/45931
+#EXTINF:-1,CH | Chinese Movies 1
+http://mr4k.pk:8080/N5346/N3567/46051
+#EXTINF:-1,CH | Chinese Movies 4
+http://mr4k.pk:8080/N5346/N3567/46052
+#EXTINF:-1,CH | Chinese TV
+http://mr4k.pk:8080/N5346/N3567/46053
+#EXTINF:-1,ES: Viajar FHD
+http://mr4k.pk:8080/N5346/N3567/46607
+#EXTINF:-1,ES: WWE Network HD
+http://mr4k.pk:8080/N5346/N3567/46608
+#EXTINF:-1,ES: XTREM
+http://mr4k.pk:8080/N5346/N3567/46609
+#EXTINF:-1,ES: XTRM FHD
+http://mr4k.pk:8080/N5346/N3567/46610
+#EXTINF:-1,IND: ZEE TV HD
+http://mr4k.pk:8080/N5346/N3567/46611
+#EXTINF:-1,IND: ZEE TV
+http://mr4k.pk:8080/N5346/N3567/46612
+#EXTINF:-1,IND: ZEE ANMOL
+http://mr4k.pk:8080/N5346/N3567/46613
+#EXTINF:-1,IND: ZEE SMILE
+http://mr4k.pk:8080/N5346/N3567/46614
+#EXTINF:-1,IND: ZEE MARATHI HD
+http://mr4k.pk:8080/N5346/N3567/46615
+#EXTINF:-1,IND: ZEE TAMIL
+http://mr4k.pk:8080/N5346/N3567/46616
+#EXTINF:-1,IND: ZEE THEATRE HD
+http://mr4k.pk:8080/N5346/N3567/46617
+#EXTINF:-1,IND: ZEE CINEMA HD
+http://mr4k.pk:8080/N5346/N3567/46618
+#EXTINF:-1,IND: ZEE CINEMA SD
+http://mr4k.pk:8080/N5346/N3567/46619
+#EXTINF:-1,IND: ZEE CINEMA UK
+http://mr4k.pk:8080/N5346/N3567/46620
+#EXTINF:-1,IND: ZEE CINEMA USA
+http://mr4k.pk:8080/N5346/N3567/46621
+#EXTINF:-1,IND: ZEE ACTION
+http://mr4k.pk:8080/N5346/N3567/46622
+#EXTINF:-1,IND: ZEE CLASSIC
+http://mr4k.pk:8080/N5346/N3567/46623
+#EXTINF:-1,IND: ZEE BOLLYWOOD
+http://mr4k.pk:8080/N5346/N3567/46624
+#EXTINF:-1,IND: ZEE ANMOL CINEMA
+http://mr4k.pk:8080/N5346/N3567/46625
+#EXTINF:-1,IND: ZEE CAFE
+http://mr4k.pk:8080/N5346/N3567/46626
+#EXTINF:-1,IND: ZEE SALAAM
+http://mr4k.pk:8080/N5346/N3567/46627
+#EXTINF:-1,IND: ZEE HINDUSTAN
+http://mr4k.pk:8080/N5346/N3567/46628
+#EXTINF:-1,NL:FOX Channel NL
+http://mr4k.pk:8080/N5346/N3567/33715
+#EXTINF:-1,NL:TLC NL
+http://mr4k.pk:8080/N5346/N3567/33716
+#EXTINF:-1,NL:24Kitchen NL
+http://mr4k.pk:8080/N5346/N3567/33717
+#EXTINF:-1,NL:Film1 Action NL
+http://mr4k.pk:8080/N5346/N3567/33719
+#EXTINF:-1,NL:Film1 Drama NL
+http://mr4k.pk:8080/N5346/N3567/33720
+#EXTINF:-1,NL:Film1 Family NL
+http://mr4k.pk:8080/N5346/N3567/33721
+#EXTINF:-1,NL:Film1 Premiere HD NL
+http://mr4k.pk:8080/N5346/N3567/33722
+#EXTINF:-1,NL:Comedy Central
+http://mr4k.pk:8080/N5346/N3567/33723
+#EXTINF:-1,NL: Comedy Central extra
+http://mr4k.pk:8080/N5346/N3567/33724
+#EXTINF:-1,-----Filma-----
+http://mr4k.pk:8080/N5346/N3567/14834
+#EXTINF:-1,Film Nje HD
+http://mr4k.pk:8080/N5346/N3567/14835
+#EXTINF:-1,Film NJE (Backup)
+http://mr4k.pk:8080/N5346/N3567/14836
+#EXTINF:-1,Film Dy HD
+http://mr4k.pk:8080/N5346/N3567/14837
+#EXTINF:-1,Family HD
+http://mr4k.pk:8080/N5346/N3567/14838
+#EXTINF:-1,Film Hits
+http://mr4k.pk:8080/N5346/N3567/14839
+#EXTINF:-1,Film Aksion
+http://mr4k.pk:8080/N5346/N3567/14840
+#EXTINF:-1,Film Komedi
+http://mr4k.pk:8080/N5346/N3567/14841
+#EXTINF:-1,Film Thriller
+http://mr4k.pk:8080/N5346/N3567/14842
+#EXTINF:-1,Film Autor
+http://mr4k.pk:8080/N5346/N3567/14843
+#EXTINF:-1,Film Drame
+http://mr4k.pk:8080/N5346/N3567/14844
+#EXTINF:-1,Tring Jolly HD
+http://mr4k.pk:8080/N5346/N3567/14845
+#EXTINF:-1,Jolly HD
+http://mr4k.pk:8080/N5346/N3567/14846
+#EXTINF:-1,Tring Super
+http://mr4k.pk:8080/N5346/N3567/14847
+#EXTINF:-1,Tring Shqip
+http://mr4k.pk:8080/N5346/N3567/14848
+#EXTINF:-1,Tring Action
+http://mr4k.pk:8080/N5346/N3567/14849
+#EXTINF:-1,Tring Komedi
+http://mr4k.pk:8080/N5346/N3567/14850
+#EXTINF:-1,Tring Fantasy
+http://mr4k.pk:8080/N5346/N3567/14851
+#EXTINF:-1,Tring Life
+http://mr4k.pk:8080/N5346/N3567/14852
+#EXTINF:-1,Tring Shqip
+http://mr4k.pk:8080/N5346/N3567/14853
+#EXTINF:-1,Alb Humor
+http://mr4k.pk:8080/N5346/N3567/14854
+#EXTINF:-1,RTSH Film
+http://mr4k.pk:8080/N5346/N3567/14855
+#EXTINF:-1,Film Gold 2
+http://mr4k.pk:8080/N5346/N3567/14856
+#EXTINF:-1,Film Gold 3
+http://mr4k.pk:8080/N5346/N3567/14857
+#EXTINF:-1,Digi Gold 1 HD
+http://mr4k.pk:8080/N5346/N3567/14858
+#EXTINF:-1,Digi Gold 2 HD
+http://mr4k.pk:8080/N5346/N3567/14859
+#EXTINF:-1,Digi XGold 2 HD
+http://mr4k.pk:8080/N5346/N3567/14860
+#EXTINF:-1,DIGI Gold 3
+http://mr4k.pk:8080/N5346/N3567/14861
+#EXTINF:-1,DIGI Gold 4
+http://mr4k.pk:8080/N5346/N3567/14862
+#EXTINF:-1,Euro Film 1 HD
+http://mr4k.pk:8080/N5346/N3567/14863
+#EXTINF:-1,Euro Film 2 HD
+http://mr4k.pk:8080/N5346/N3567/14864
+#EXTINF:-1,Portocalli
+http://mr4k.pk:8080/N5346/N3567/14865
+#EXTINF:-1,X Family HD
+http://mr4k.pk:8080/N5346/N3567/14866
+#EXTINF:-1,Kitchen TV
+http://mr4k.pk:8080/N5346/N3567/14867
+#EXTINF:-1,RTV Aldi
+http://mr4k.pk:8080/N5346/N3567/14868
+#EXTINF:-1,Sky 7
+http://mr4k.pk:8080/N5346/N3567/14869
+#EXTINF:-1,Sky Drame
+http://mr4k.pk:8080/N5346/N3567/14870
+#EXTINF:-1,Sky Aksions
+http://mr4k.pk:8080/N5346/N3567/14871
+#EXTINF:-1,Sky Blue TV
+http://mr4k.pk:8080/N5346/N3567/14872
+#EXTINF:-1,Sky Histori
+http://mr4k.pk:8080/N5346/N3567/14873
+#EXTINF:-1,Sky Komedi
+http://mr4k.pk:8080/N5346/N3567/14874
+#EXTINF:-1,Sky Max
+http://mr4k.pk:8080/N5346/N3567/14875
+#EXTINF:-1,Sky Novela
+http://mr4k.pk:8080/N5346/N3567/14876
+#EXTINF:-1,Sky Shkence
+http://mr4k.pk:8080/N5346/N3567/14877
+#EXTINF:-1,Kino Action
+http://mr4k.pk:8080/N5346/N3567/14878
+#EXTINF:-1,AL: Kino Premiere 1 HD
+http://mr4k.pk:8080/N5346/N3567/14879
+#EXTINF:-1,AL: Kino Premiere 2 HD
+http://mr4k.pk:8080/N5346/N3567/14880
+#EXTINF:-1,AL: Kino Premiere 3 HD
+http://mr4k.pk:8080/N5346/N3567/14881
+#EXTINF:-1,AL: ART Doku 1 HD
+http://mr4k.pk:8080/N5346/N3567/14882
+#EXTINF:-1,AL: ART Doku 2 HD
+http://mr4k.pk:8080/N5346/N3567/14883
+#EXTINF:-1,AL: ART Kino 1 HD
+http://mr4k.pk:8080/N5346/N3567/14884
+#EXTINF:-1,AL: ART Kino 2 HD
+http://mr4k.pk:8080/N5346/N3567/14885
+#EXTINF:-1,AL: ART Kino 3 HD
+http://mr4k.pk:8080/N5346/N3567/14886
+#EXTINF:-1,X Premium 1 HD
+http://mr4k.pk:8080/N5346/N3567/14887
+#EXTINF:-1,X Premium 2 HD
+http://mr4k.pk:8080/N5346/N3567/14888
+#EXTINF:-1,X Premium 3 HD
+http://mr4k.pk:8080/N5346/N3567/14889
+#EXTINF:-1,X SHKENC
+http://mr4k.pk:8080/N5346/N3567/14891
+#EXTINF:-1,X NATYRE
+http://mr4k.pk:8080/N5346/N3567/14892
+#EXTINF:-1,X HUMOR
+http://mr4k.pk:8080/N5346/N3567/14893
+#EXTINF:-1,X DARK HD
+http://mr4k.pk:8080/N5346/N3567/14894
+#EXTINF:-1,X ACTION
+http://mr4k.pk:8080/N5346/N3567/14895
+#EXTINF:-1,X DRAME
+http://mr4k.pk:8080/N5346/N3567/14896
+#EXTINF:-1,X TRILER
+http://mr4k.pk:8080/N5346/N3567/14897
+#EXTINF:-1,X COMEDI
+http://mr4k.pk:8080/N5346/N3567/14898
+#EXTINF:-1,Alb Thriller
+http://mr4k.pk:8080/N5346/N3567/14899
+#EXTINF:-1,ShqipTV Jeta HD
+http://mr4k.pk:8080/N5346/N3567/14900
+#EXTINF:-1,ShqipTV Fantasy HD
+http://mr4k.pk:8080/N5346/N3567/14901
+#EXTINF:-1,ShqipTV Cinema HD
+http://mr4k.pk:8080/N5346/N3567/14902
+#EXTINF:-1,ShqipTV Stupcat HD
+http://mr4k.pk:8080/N5346/N3567/14903
+#EXTINF:-1,ShqipTV Komedi HD
+http://mr4k.pk:8080/N5346/N3567/14904
+#EXTINF:-1,ShqipTV Horror HD
+http://mr4k.pk:8080/N5346/N3567/14905
+#EXTINF:-1,ShqipTV Hindi HD
+http://mr4k.pk:8080/N5346/N3567/14906
+#EXTINF:-1,ShqipTV Film HD
+http://mr4k.pk:8080/N5346/N3567/14907
+#EXTINF:-1,ShqipTV Serial HD
+http://mr4k.pk:8080/N5346/N3567/14908
+#EXTINF:-1,ShqipTV Western HD
+http://mr4k.pk:8080/N5346/N3567/14909
+#EXTINF:-1,ShqipTV Aksion HD
+http://mr4k.pk:8080/N5346/N3567/14910
+#EXTINF:-1,Fox
+http://mr4k.pk:8080/N5346/N3567/14911
+#EXTINF:-1,Fox Crime
+http://mr4k.pk:8080/N5346/N3567/14912
+#EXTINF:-1,Fox Life
+http://mr4k.pk:8080/N5346/N3567/14913
+#EXTINF:-1,Fox Movies
+http://mr4k.pk:8080/N5346/N3567/14914
+#EXTINF:-1,HBO FHD
+http://mr4k.pk:8080/N5346/N3567/14915
+#EXTINF:-1,HBO 3 FHD
+http://mr4k.pk:8080/N5346/N3567/14916
+#EXTINF:-1,HBO 2 FHD
+http://mr4k.pk:8080/N5346/N3567/14917
+#EXTINF:-1,SE :TV12 HD
+http://mr4k.pk:8080/N5346/N3567/15253
+#EXTINF:-1,SE :SVT24
+http://mr4k.pk:8080/N5346/N3567/15254
+#EXTINF:-1,Sky Cinema Due HD
+http://mr4k.pk:8080/N5346/N3567/34580
+#EXTINF:-1,Sky Cinema Action HD
+http://mr4k.pk:8080/N5346/N3567/34581
+#EXTINF:-1,Sky Cinema Drama HD
+http://mr4k.pk:8080/N5346/N3567/34582
+#EXTINF:-1,Sky Cinema Drama (Backup)
+http://mr4k.pk:8080/N5346/N3567/34583
+#EXTINF:-1,Sky Cinema Action FHD
+http://mr4k.pk:8080/N5346/N3567/34584
+#EXTINF:-1,Sky Cinema Comedy HD
+http://mr4k.pk:8080/N5346/N3567/34585
+#EXTINF:-1,Sky Cinema Family HD
+http://mr4k.pk:8080/N5346/N3567/34586
+#EXTINF:-1,Sky Cinema Collection (Backup)
+http://mr4k.pk:8080/N5346/N3567/34587
+#EXTINF:-1,Sky Cinema Romance HD
+http://mr4k.pk:8080/N5346/N3567/34588
+#EXTINF:-1,Sky Cinema Romance (Backup)
+http://mr4k.pk:8080/N5346/N3567/34589
+#EXTINF:-1,Sky Cinema Suspense HD
+http://mr4k.pk:8080/N5346/N3567/34590
+#EXTINF:-1,Sky Cinema Family FHD
+http://mr4k.pk:8080/N5346/N3567/34591
+#EXTINF:-1,Sky Cinema Due HD
+http://mr4k.pk:8080/N5346/N3567/34592
+#EXTINF:-1,Premium Cinema HD
+http://mr4k.pk:8080/N5346/N3567/34593
+#EXTINF:-1,Premium Cinema (Backup)
+http://mr4k.pk:8080/N5346/N3567/34594
+#EXTINF:-1,Premium Comedy HD
+http://mr4k.pk:8080/N5346/N3567/34595
+#EXTINF:-1,Premium Comedy HD
+http://mr4k.pk:8080/N5346/N3567/34596
+#EXTINF:-1,Premium Action Full HD
+http://mr4k.pk:8080/N5346/N3567/34597
+#EXTINF:-1,Premium Crime HD
+http://mr4k.pk:8080/N5346/N3567/34598
+#EXTINF:-1,Premium Crime (Backup)
+http://mr4k.pk:8080/N5346/N3567/34599
+#EXTINF:-1,Top Crime HD
+http://mr4k.pk:8080/N5346/N3567/34600
+#EXTINF:-1,Premium Stories FULL HD
+http://mr4k.pk:8080/N5346/N3567/34601
+#EXTINF:-1,Premium Stories HD
+http://mr4k.pk:8080/N5346/N3567/34602
+#EXTINF:-1,Premium Emotion HD
+http://mr4k.pk:8080/N5346/N3567/34603
+#EXTINF:-1,Premium Emotion HD
+http://mr4k.pk:8080/N5346/N3567/34604
+#EXTINF:-1,PK: FILMAZIA
+http://mr4k.pk:8080/N5346/N3567/35622
+#EXTINF:-1,PK: FILMAX
+http://mr4k.pk:8080/N5346/N3567/35623
+#EXTINF:-1,PK: FILMWORLD
+http://mr4k.pk:8080/N5346/N3567/35624
+#EXTINF:-1,|| PT || TV CINE 1 HD
+http://mr4k.pk:8080/N5346/N3567/35890
+#EXTINF:-1,|| PT || TV CINE 1
+http://mr4k.pk:8080/N5346/N3567/35891
+#EXTINF:-1,|| PT || TV CINE 2 HD
+http://mr4k.pk:8080/N5346/N3567/35892
+#EXTINF:-1,|| PT || TV CINE 2
+http://mr4k.pk:8080/N5346/N3567/35893
+#EXTINF:-1,|| PT || TV CINE 3 HD
+http://mr4k.pk:8080/N5346/N3567/35894
+#EXTINF:-1,|| PT || TV CINE 3
+http://mr4k.pk:8080/N5346/N3567/35895
+#EXTINF:-1,|| PT || TV CINE 4 HD
+http://mr4k.pk:8080/N5346/N3567/35896
+#EXTINF:-1,|| PT || TV CINE 4
+http://mr4k.pk:8080/N5346/N3567/35897
+#EXTINF:-1,|| PT || NOS STUDIOS HD
+http://mr4k.pk:8080/N5346/N3567/35898
+#EXTINF:-1,|| PT || HOLLYWOOD HD
+http://mr4k.pk:8080/N5346/N3567/35899
+#EXTINF:-1,|| PT || HOLLYWOOD
+http://mr4k.pk:8080/N5346/N3567/35900
+#EXTINF:-1,|| PT || FOX MOVIES HD
+http://mr4k.pk:8080/N5346/N3567/35901
+#EXTINF:-1,|| PT || FOX LIFE HD
+http://mr4k.pk:8080/N5346/N3567/35902
+#EXTINF:-1,|| PT || FOX LIFE
+http://mr4k.pk:8080/N5346/N3567/35903
+#EXTINF:-1,|| PT || FOX HD
+http://mr4k.pk:8080/N5346/N3567/35904
+#EXTINF:-1,|| PT || FOX
+http://mr4k.pk:8080/N5346/N3567/35905
+#EXTINF:-1,|| PT || FOX CRIME HD
+http://mr4k.pk:8080/N5346/N3567/35906
+#EXTINF:-1,|| PT || FOX CRIME
+http://mr4k.pk:8080/N5346/N3567/35907
+#EXTINF:-1,|| PT || FOX COMEDY HD
+http://mr4k.pk:8080/N5346/N3567/35908
+#EXTINF:-1,|| PT || FOX COMEDY
+http://mr4k.pk:8080/N5346/N3567/35909
+#EXTINF:-1,|| PT || AXN WHITE HD
+http://mr4k.pk:8080/N5346/N3567/35910
+#EXTINF:-1,|| PT || AXN WHITE
+http://mr4k.pk:8080/N5346/N3567/35911
+#EXTINF:-1,|| PT || AXN HD
+http://mr4k.pk:8080/N5346/N3567/35912
+#EXTINF:-1,|| PT || AXN
+http://mr4k.pk:8080/N5346/N3567/35913
+#EXTINF:-1,|| PT || AXN BLACK HD
+http://mr4k.pk:8080/N5346/N3567/35914
+#EXTINF:-1,|| PT || AXN BLACK
+http://mr4k.pk:8080/N5346/N3567/35915
+#EXTINF:-1,|| PT || AMC HD
+http://mr4k.pk:8080/N5346/N3567/35916
+#EXTINF:-1,|| PT || AMC
+http://mr4k.pk:8080/N5346/N3567/35917
+#EXTINF:-1,|| PT || SYFY HD
+http://mr4k.pk:8080/N5346/N3567/35918
+#EXTINF:-1,|| PT || CINEMUNDO HD
+http://mr4k.pk:8080/N5346/N3567/35919
+#EXTINF:-1,|| PT || CINEMUNDO
+http://mr4k.pk:8080/N5346/N3567/35920
+#EXTINF:-1,GR:Nova Premiere 1 HD+
+http://mr4k.pk:8080/N5346/N3567/36071
+#EXTINF:-1,GR:Nova Premiere 2 HD+
+http://mr4k.pk:8080/N5346/N3567/36072
+#EXTINF:-1,GR:Nova Premiere 3 HD+
+http://mr4k.pk:8080/N5346/N3567/36073
+#EXTINF:-1,GR:Nova Premiere 4 HD+
+http://mr4k.pk:8080/N5346/N3567/36074
+#EXTINF:-1,GR:Nova Premiere 5 HD+
+http://mr4k.pk:8080/N5346/N3567/36075
+#EXTINF:-1,GR:Nova Premiere 6 HD+
+http://mr4k.pk:8080/N5346/N3567/36076
+#EXTINF:-1,GR:Nova Premiere 7 HD+
+http://mr4k.pk:8080/N5346/N3567/36077
+#EXTINF:-1,GR:Nova Premiere 8 HD+
+http://mr4k.pk:8080/N5346/N3567/36078
+#EXTINF:-1,GR:Nova Premiere 9 HD+
+http://mr4k.pk:8080/N5346/N3567/36079
+#EXTINF:-1,GR:Nova Premiere 10 HD+
+http://mr4k.pk:8080/N5346/N3567/36080
+#EXTINF:-1,GR:Nova Premiere 11 HD+
+http://mr4k.pk:8080/N5346/N3567/36081
+#EXTINF:-1,GR:Nova Premiere 12 HD+
+http://mr4k.pk:8080/N5346/N3567/36082
+#EXTINF:-1,GR:Nova Premiere 13 HD+
+http://mr4k.pk:8080/N5346/N3567/36083
+#EXTINF:-1,GR:Nova Premiere 14 HD+
+http://mr4k.pk:8080/N5346/N3567/36084
+#EXTINF:-1,GR:Nova Premiere 15 HD+
+http://mr4k.pk:8080/N5346/N3567/36085
+#EXTINF:-1,GR:Nova Premiere 16 HD+
+http://mr4k.pk:8080/N5346/N3567/36086
+#EXTINF:-1,GR:Nova Premiere 17 HD+
+http://mr4k.pk:8080/N5346/N3567/36087
+#EXTINF:-1,GR:Nova Premiere Fantasy HD+
+http://mr4k.pk:8080/N5346/N3567/36088
+#EXTINF:-1,GR:Nova Premiere Comedy HD+
+http://mr4k.pk:8080/N5346/N3567/36089
+#EXTINF:-1,GR:Nova Premiere Action HD+
+http://mr4k.pk:8080/N5346/N3567/36090
+#EXTINF:-1,GR:Nova Premiere Thriller HD+
+http://mr4k.pk:8080/N5346/N3567/36091
+#EXTINF:-1,GR:Nova Premiere Drama HD+
+http://mr4k.pk:8080/N5346/N3567/36092
+#EXTINF:-1,GR:Nova Premiere Passion HD+
+http://mr4k.pk:8080/N5346/N3567/36093
+#EXTINF:-1,GR:Nova Premiere Horror HD+
+http://mr4k.pk:8080/N5346/N3567/36094
+#EXTINF:-1,GR:Nova Premiere History HD+
+http://mr4k.pk:8080/N5346/N3567/36095
+#EXTINF:-1,GR:Nova Premiere HELLENIC
+http://mr4k.pk:8080/N5346/N3567/36096
+#EXTINF:-1,GR:Cosmote Cinema 1
+http://mr4k.pk:8080/N5346/N3567/36097
+#EXTINF:-1,GR:Cosmote Cinema 2
+http://mr4k.pk:8080/N5346/N3567/36098
+#EXTINF:-1,GR:Cosmote Cinema 2 HD
+http://mr4k.pk:8080/N5346/N3567/36099
+#EXTINF:-1,GR:Cosmote Cinema 3
+http://mr4k.pk:8080/N5346/N3567/36100
+#EXTINF:-1,GR:COSMOTE Cinema 3
+http://mr4k.pk:8080/N5346/N3567/36101
+#EXTINF:-1,GR:Cosmote Cinema 4
+http://mr4k.pk:8080/N5346/N3567/36102
+#EXTINF:-1,GR:COSMOTE Series
+http://mr4k.pk:8080/N5346/N3567/36103
+#EXTINF:-1,GR:NOVA PREMIERE 1
+http://mr4k.pk:8080/N5346/N3567/36104
+#EXTINF:-1,GR:NOVA PREMIERE 2
+http://mr4k.pk:8080/N5346/N3567/36105
+#EXTINF:-1,GR:NOVA PREMIERE 3
+http://mr4k.pk:8080/N5346/N3567/36106
+#EXTINF:-1,GR:NOVA PREMIERE 4
+http://mr4k.pk:8080/N5346/N3567/36107
+#EXTINF:-1,GR:Nova Cinema Action HD
+http://mr4k.pk:8080/N5346/N3567/36108
+#EXTINF:-1,GR:Nova Cinema 2  HD
+http://mr4k.pk:8080/N5346/N3567/36109
+#EXTINF:-1,GR:Nova Cinema 3 HD
+http://mr4k.pk:8080/N5346/N3567/36110
+#EXTINF:-1,GR:Nova Cinema 4 HD
+http://mr4k.pk:8080/N5346/N3567/36111
+#EXTINF:-1,SAF | M-NET MOVIES ACTION PLUS | HD
+http://mr4k.pk:8080/N5346/N3567/36325
+#EXTINF:-1,SAF | M-NET MOVIES ACTION | HD
+http://mr4k.pk:8080/N5346/N3567/36326
+#EXTINF:-1,SAF | M-NET MOVIES ALL STARS | HD
+http://mr4k.pk:8080/N5346/N3567/36327
+#EXTINF:-1,SAF | M-NET MOVIES PREMIERE | HD
+http://mr4k.pk:8080/N5346/N3567/36328
+#EXTINF:-1,SAF | M-NET MOVIES SMILE | HD
+http://mr4k.pk:8080/N5346/N3567/36329
+#EXTINF:-1,SAF | M-NET PLUS 1 | HD
+http://mr4k.pk:8080/N5346/N3567/36330
+#EXTINF:-1,SAF | M-NET | HD
+http://mr4k.pk:8080/N5346/N3567/36331
+#EXTINF:-1,SAF | Africa Magic Family
+http://mr4k.pk:8080/N5346/N3567/36332
+#EXTINF:-1,SAF | Africa Magic Urban
+http://mr4k.pk:8080/N5346/N3567/36333
+#EXTINF:-1,SAF | AfricaMagic Epic
+http://mr4k.pk:8080/N5346/N3567/36334
+#EXTINF:-1,SAF | eMovies
+http://mr4k.pk:8080/N5346/N3567/36350
+#EXTINF:-1,SAF | eMovies Extra
+http://mr4k.pk:8080/N5346/N3567/36351
+#EXTINF:-1,SAF | M-NET
+http://mr4k.pk:8080/N5346/N3567/36361
+#EXTINF:-1,SAF | M-NET CITY
+http://mr4k.pk:8080/N5346/N3567/36362
+#EXTINF:-1,SAF | M-NET MOVIES ACTION
+http://mr4k.pk:8080/N5346/N3567/36363
+#EXTINF:-1,SAF | M-NET MOVIES ALL STARS
+http://mr4k.pk:8080/N5346/N3567/36364
+#EXTINF:-1,SAF | M-NET MOVIES PREMIERE
+http://mr4k.pk:8080/N5346/N3567/36365
+#EXTINF:-1,SAF | M-NET MOVIES SMILE
+http://mr4k.pk:8080/N5346/N3567/36366
+#EXTINF:-1,SAF | M-NET MOVIES ZONE
+http://mr4k.pk:8080/N5346/N3567/36367
+#EXTINF:-1,===== CANALSAT =====
+http://mr4k.pk:8080/N5346/N3567/36698
+#EXTINF:-1,|| FR || CANAL+ CINEMA
+http://mr4k.pk:8080/N5346/N3567/36699
+#EXTINF:-1,|| FR || CANAL+ DECALE
+http://mr4k.pk:8080/N5346/N3567/36700
+#EXTINF:-1,|| FR || CANAL+ FAMILY
+http://mr4k.pk:8080/N5346/N3567/36701
+#EXTINF:-1,|| FR || CANAL+ SERIES
+http://mr4k.pk:8080/N5346/N3567/36702
+#EXTINF:-1,|| FR || CANAL+ SPORT
+http://mr4k.pk:8080/N5346/N3567/36703
+#EXTINF:-1,|| FR || CINE+ PREMIER
+http://mr4k.pk:8080/N5346/N3567/36704
+#EXTINF:-1,|| FR || CINE+ FRISSON
+http://mr4k.pk:8080/N5346/N3567/36705
+#EXTINF:-1,|| FR || CINE+ FAMIZ
+http://mr4k.pk:8080/N5346/N3567/36706
+#EXTINF:-1,|| FR || CINE+ EMOTION
+http://mr4k.pk:8080/N5346/N3567/36707
+#EXTINF:-1,|| FR || CINE+ CLASSIC
+http://mr4k.pk:8080/N5346/N3567/36708
+#EXTINF:-1,|| FR || CINE+ CLUB
+http://mr4k.pk:8080/N5346/N3567/36709
+#EXTINF:-1,|| FR || OCS MAX
+http://mr4k.pk:8080/N5346/N3567/36710
+#EXTINF:-1,|| FR || OCS CITY
+http://mr4k.pk:8080/N5346/N3567/36711
+#EXTINF:-1,|| FR || OCS GEANTS
+http://mr4k.pk:8080/N5346/N3567/36712
+#EXTINF:-1,|| FR || OCS CHOC
+http://mr4k.pk:8080/N5346/N3567/36713
+#EXTINF:-1,[CA-FR] SUPER ECRAN 1
+http://mr4k.pk:8080/N5346/N3567/36714
+#EXTINF:-1,[CA-FR] SUPER ECRAN 2
+http://mr4k.pk:8080/N5346/N3567/36715
+#EXTINF:-1,[CA-FR] SUPER ECRAN 3
+http://mr4k.pk:8080/N5346/N3567/36716
+#EXTINF:-1,[CA-FR] SUPER ECRAN 4
+http://mr4k.pk:8080/N5346/N3567/36717
+#EXTINF:-1,|| FR || ALTICE STUDIO HD
+http://mr4k.pk:8080/N5346/N3567/36718
+#EXTINF:-1,|| FR || WARNER TV
+http://mr4k.pk:8080/N5346/N3567/36719
+#EXTINF:-1,|| FR || TCM CINEMA
+http://mr4k.pk:8080/N5346/N3567/36720
+#EXTINF:-1,|| FR || Paramount Channel HD
+http://mr4k.pk:8080/N5346/N3567/36721
+#EXTINF:-1,|| FR || Paramount Channel Decale HD
+http://mr4k.pk:8080/N5346/N3567/36722
+#EXTINF:-1,|| FR || ACTION HD
+http://mr4k.pk:8080/N5346/N3567/36723
+#EXTINF:-1,|| FR || SERIE CLUB HD
+http://mr4k.pk:8080/N5346/N3567/36724
+#EXTINF:-1,|| FR || SYFY HD
+http://mr4k.pk:8080/N5346/N3567/36725
+#EXTINF:-1,|| FR || 13EME RUE HD
+http://mr4k.pk:8080/N5346/N3567/36726
+#EXTINF:-1,|| FR || AB1 HD
+http://mr4k.pk:8080/N5346/N3567/36727
+#EXTINF:-1,|| FR || AB3 HD
+http://mr4k.pk:8080/N5346/N3567/36728
+#EXTINF:-1,|| FR || PARIS PREMIERE HD
+http://mr4k.pk:8080/N5346/N3567/36729
+#EXTINF:-1,|| FR || RTL 9 HD
+http://mr4k.pk:8080/N5346/N3567/36730
+#EXTINF:-1,|| FR || BET HD
+http://mr4k.pk:8080/N5346/N3567/36731
+#EXTINF:-1,|| FR || COMEDIE+
+http://mr4k.pk:8080/N5346/N3567/36732
+#EXTINF:-1,|| FR || MY COMEDY
+http://mr4k.pk:8080/N5346/N3567/36733
+#EXTINF:-1,|| FR || MYTV CHANNEL
+http://mr4k.pk:8080/N5346/N3567/36734
+#EXTINF:-1,|| FR || TV Breizh
+http://mr4k.pk:8080/N5346/N3567/36735
+#EXTINF:-1,|| FR || TEVA
+http://mr4k.pk:8080/N5346/N3567/36736
+#EXTINF:-1,|| FR || E! ENTERTAINMENT HD
+http://mr4k.pk:8080/N5346/N3567/36737
+#EXTINF:-1,|| FR || MTV HD
+http://mr4k.pk:8080/N5346/N3567/36738
+#EXTINF:-1,|| FR || MCM
+http://mr4k.pk:8080/N5346/N3567/36739
+#EXTINF:-1,RO | AXN
+http://mr4k.pk:8080/N5346/N3567/39579
+#EXTINF:-1,RO | AXN FHD
+http://mr4k.pk:8080/N5346/N3567/39580
+#EXTINF:-1,RO | AXN Black
+http://mr4k.pk:8080/N5346/N3567/39581
+#EXTINF:-1,RO | AXN SPIN
+http://mr4k.pk:8080/N5346/N3567/39582
+#EXTINF:-1,RO | AXN White
+http://mr4k.pk:8080/N5346/N3567/39583
+#EXTINF:-1,RO | Cinemax 1
+http://mr4k.pk:8080/N5346/N3567/39587
+#EXTINF:-1,RO | Cinemax 2
+http://mr4k.pk:8080/N5346/N3567/39588
+#EXTINF:-1,OSN Yahala Cinema HD
+http://mr4k.pk:8080/N5346/N3567/39763
+#EXTINF:-1,OSN Cinema HD
+http://mr4k.pk:8080/N5346/N3567/39765
+#EXTINF:-1,OSN Series HD
+http://mr4k.pk:8080/N5346/N3567/39766
+#EXTINF:-1,OSN Movies HD
+http://mr4k.pk:8080/N5346/N3567/39768
+#EXTINF:-1,OSN Action HD
+http://mr4k.pk:8080/N5346/N3567/39769
+#EXTINF:-1,OSN Movies First HD
+http://mr4k.pk:8080/N5346/N3567/39770
+#EXTINF:-1,OSN Movies First  2 HD
+http://mr4k.pk:8080/N5346/N3567/39771
+#EXTINF:-1,OSN Enigma HD
+http://mr4k.pk:8080/N5346/N3567/39772
+#EXTINF:-1,OSN Series First HD
+http://mr4k.pk:8080/N5346/N3567/39773
+#EXTINF:-1,OSN Series Comedy HD
+http://mr4k.pk:8080/N5346/N3567/39774
+#EXTINF:-1,OSN Movies Disney HD
+http://mr4k.pk:8080/N5346/N3567/39775
+#EXTINF:-1,OSN Kids HD
+http://mr4k.pk:8080/N5346/N3567/39776
+#EXTINF:-1,OSN Comedy Central HD
+http://mr4k.pk:8080/N5346/N3567/39777
+#EXTINF:-1,OSN Crime HD
+http://mr4k.pk:8080/N5346/N3567/39778
+#EXTINF:-1,OSN TLC HD
+http://mr4k.pk:8080/N5346/N3567/39780
+#EXTINF:-1,OSN E! HD
+http://mr4k.pk:8080/N5346/N3567/39781
+#EXTINF:-1,OSN Star Movies HD
+http://mr4k.pk:8080/N5346/N3567/39783
+#EXTINF:-1,OSN Star World HD
+http://mr4k.pk:8080/N5346/N3567/39784
+#EXTINF:-1,OSN Alfa Cinema 1 HD
+http://mr4k.pk:8080/N5346/N3567/39785
+#EXTINF:-1,OSN Alfa Cinema 2 HD
+http://mr4k.pk:8080/N5346/N3567/39786
+#EXTINF:-1,Ru- Comedy movies
+http://mr4k.pk:8080/N5346/N3567/39849
+#EXTINF:-1,Ru-1000 Action HD
+http://mr4k.pk:8080/N5346/N3567/39850
+#EXTINF:-1,Ru-1HD
+http://mr4k.pk:8080/N5346/N3567/39851
+#EXTINF:-1,Ru-1Match! Futbol 1
+http://mr4k.pk:8080/N5346/N3567/39852
+#EXTINF:-1,Ru-2Match! Futbol 2
+http://mr4k.pk:8080/N5346/N3567/39853
+#EXTINF:-1,Ru-2x2
+http://mr4k.pk:8080/N5346/N3567/39854
+#EXTINF:-1,Ru-365 dnei
+http://mr4k.pk:8080/N5346/N3567/39855
+#EXTINF:-1,Ru-3Match! Futbol 3
+http://mr4k.pk:8080/N5346/N3567/39856
+#EXTINF:-1,Ru-5 kanal
+http://mr4k.pk:8080/N5346/N3567/39857
+#EXTINF:-1,Ru-7 TV
+http://mr4k.pk:8080/N5346/N3567/39858
+#EXTINF:-1,Ru- A1 TV
+http://mr4k.pk:8080/N5346/N3567/39859
+#EXTINF:-1,Ru- A2 TV
+http://mr4k.pk:8080/N5346/N3567/39860
+#EXTINF:-1,Ru- Ani
+http://mr4k.pk:8080/N5346/N3567/39861
+#EXTINF:-1,Ru- Animal Planet
+http://mr4k.pk:8080/N5346/N3567/39862
+#EXTINF:-1,Ru- Avto 24
+http://mr4k.pk:8080/N5346/N3567/39863
+#EXTINF:-1,Ru- BBC World News
+http://mr4k.pk:8080/N5346/N3567/39864
+#EXTINF:-1,Ru- Belarus 24
+http://mr4k.pk:8080/N5346/N3567/39865
+#EXTINF:-1,Ru- Bober
+http://mr4k.pk:8080/N5346/N3567/39866
+#EXTINF:-1,Ru- Boomerang
+http://mr4k.pk:8080/N5346/N3567/39867
+#EXTINF:-1,Ru- Bridge TVBridge TV
+http://mr4k.pk:8080/N5346/N3567/39868
+#EXTINF:-1,Ru- Carousel
+http://mr4k.pk:8080/N5346/N3567/39869
+#EXTINF:-1,Ru- Cartoon Network
+http://mr4k.pk:8080/N5346/N3567/39870
+#EXTINF:-1,Ru- CBS Reality
+http://mr4k.pk:8080/N5346/N3567/39871
+#EXTINF:-1,Ru- CGTN  Russian
+http://mr4k.pk:8080/N5346/N3567/39872
+#EXTINF:-1,Ru- Chanson TV
+http://mr4k.pk:8080/N5346/N3567/39873
+#EXTINF:-1,Ru- Chasse and Peche
+http://mr4k.pk:8080/N5346/N3567/39874
+#EXTINF:-1,Ru- Children World
+http://mr4k.pk:8080/N5346/N3567/39875
+#EXTINF:-1,Ru- Cinema
+http://mr4k.pk:8080/N5346/N3567/39876
+#EXTINF:-1,Ru- CNN
+http://mr4k.pk:8080/N5346/N3567/39877
+#EXTINF:-1,Ru- Da Vinci Learning
+http://mr4k.pk:8080/N5346/N3567/39878
+#EXTINF:-1,Ru- Dance TV
+http://mr4k.pk:8080/N5346/N3567/39879
+#EXTINF:-1,RU- Discovery Channel HD
+http://mr4k.pk:8080/N5346/N3567/39880
+#EXTINF:-1,Ru- Discovery Science
+http://mr4k.pk:8080/N5346/N3567/39881
+#EXTINF:-1,Ru- Disney HD
+http://mr4k.pk:8080/N5346/N3567/39882
+#EXTINF:-1,Ru- Drive
+http://mr4k.pk:8080/N5346/N3567/39883
+#EXTINF:-1,Ru- DTX
+http://mr4k.pk:8080/N5346/N3567/39884
+#EXTINF:-1,Ru- EGE TV
+http://mr4k.pk:8080/N5346/N3567/39885
+#EXTINF:-1,Ru- Egoist TV
+http://mr4k.pk:8080/N5346/N3567/39886
+#EXTINF:-1,Ru- est kto
+http://mr4k.pk:8080/N5346/N3567/39887
+#EXTINF:-1,Ru- EuroSport
+http://mr4k.pk:8080/N5346/N3567/39888
+#EXTINF:-1,Ru- EuroSport 2
+http://mr4k.pk:8080/N5346/N3567/39889
+#EXTINF:-1,Ru- Extreme Sports
+http://mr4k.pk:8080/N5346/N3567/39890
+#EXTINF:-1,Ru- Family movies
+http://mr4k.pk:8080/N5346/N3567/39891
+#EXTINF:-1,Ru- Farmstead
+http://mr4k.pk:8080/N5346/N3567/39892
+#EXTINF:-1,Ru- Fine Living
+http://mr4k.pk:8080/N5346/N3567/39893
+#EXTINF:-1,Ru- Food HD
+http://mr4k.pk:8080/N5346/N3567/39894
+#EXTINF:-1,Ru- Food Network
+http://mr4k.pk:8080/N5346/N3567/39895
+#EXTINF:-1,Ru- Football
+http://mr4k.pk:8080/N5346/N3567/39896
+#EXTINF:-1,RU- Fox HD
+http://mr4k.pk:8080/N5346/N3567/39897
+#EXTINF:-1,Ru- Fox Life
+http://mr4k.pk:8080/N5346/N3567/39898
+#EXTINF:-1,Ru- Friday
+http://mr4k.pk:8080/N5346/N3567/39899
+#EXTINF:-1,Ru- Game Show
+http://mr4k.pk:8080/N5346/N3567/39900
+#EXTINF:-1,Ru- GlobalStar TV
+http://mr4k.pk:8080/N5346/N3567/39901
+#EXTINF:-1,Ru- Gulli
+http://mr4k.pk:8080/N5346/N3567/39902
+#EXTINF:-1,Ru- Hard Life
+http://mr4k.pk:8080/N5346/N3567/39903
+#EXTINF:-1,Ru- HD
+http://mr4k.pk:8080/N5346/N3567/39904
+#EXTINF:-1,Ru- HD media
+http://mr4k.pk:8080/N5346/N3567/39905
+#EXTINF:-1,Ru- Healthy TV
+http://mr4k.pk:8080/N5346/N3567/39906
+#EXTINF:-1,Ru- History
+http://mr4k.pk:8080/N5346/N3567/39907
+#EXTINF:-1,Ru- Home
+http://mr4k.pk:8080/N5346/N3567/39908
+#EXTINF:-1,Ru- Home cinema
+http://mr4k.pk:8080/N5346/N3567/39909
+#EXTINF:-1,Ru- Horoshee Kino
+http://mr4k.pk:8080/N5346/N3567/39910
+#EXTINF:-1,Ru- Hunting and fishing
+http://mr4k.pk:8080/N5346/N3567/39911
+#EXTINF:-1,Ru- Illusion
+http://mr4k.pk:8080/N5346/N3567/39912
+#EXTINF:-1,Ru- Investigation Discovery Xtra
+http://mr4k.pk:8080/N5346/N3567/39913
+#EXTINF:-1,Ru- storiya
+http://mr4k.pk:8080/N5346/N3567/39914
+#EXTINF:-1,Ru- JimJam
+http://mr4k.pk:8080/N5346/N3567/39915
+#EXTINF:-1,Ru- KHL TV
+http://mr4k.pk:8080/N5346/N3567/39916
+#EXTINF:-1,Ru- Kino TV
+http://mr4k.pk:8080/N5346/N3567/39917
+#EXTINF:-1,Ru- Kinohit
+http://mr4k.pk:8080/N5346/N3567/39918
+#EXTINF:-1,Ru- Kitchen TV
+http://mr4k.pk:8080/N5346/N3567/39919
+#EXTINF:-1,Ru- Konniy Mir
+http://mr4k.pk:8080/N5346/N3567/39920
+#EXTINF:-1,Ru- La Minor
+http://mr4k.pk:8080/N5346/N3567/39921
+#EXTINF:-1,Ru- Life HD
+http://mr4k.pk:8080/N5346/N3567/39922
+#EXTINF:-1,Ru- Live
+http://mr4k.pk:8080/N5346/N3567/39923
+#EXTINF:-1,Ru- Match!
+http://mr4k.pk:8080/N5346/N3567/39924
+#EXTINF:-1,Ru- Match! Arena
+http://mr4k.pk:8080/N5346/N3567/39925
+#EXTINF:-1,Ru- Match! Fighter
+http://mr4k.pk:8080/N5346/N3567/39926
+#EXTINF:-1,Ru- Match! Our sport
+http://mr4k.pk:8080/N5346/N3567/39927
+#EXTINF:-1,Ru- MCM Top
+http://mr4k.pk:8080/N5346/N3567/39928
+#EXTINF:-1,Ru- Mezzo
+http://mr4k.pk:8080/N5346/N3567/39929
+#EXTINF:-1,Ru- Mezzo live HD
+http://mr4k.pk:8080/N5346/N3567/39930
+#EXTINF:-1,Ru- Movie mix
+http://mr4k.pk:8080/N5346/N3567/39931
+#EXTINF:-1,Ru- Movie premieres HD
+http://mr4k.pk:8080/N5346/N3567/39932
+#EXTINF:-1,Ru- Movie screening HD1
+http://mr4k.pk:8080/N5346/N3567/39933
+#EXTINF:-1,Ru- MTV Dance
+http://mr4k.pk:8080/N5346/N3567/39934
+#EXTINF:-1,Ru- MTV Live HD
+http://mr4k.pk:8080/N5346/N3567/39935
+#EXTINF:-1,Ru- Mult
+http://mr4k.pk:8080/N5346/N3567/39936
+#EXTINF:-1,Ru- Multimania
+http://mr4k.pk:8080/N5346/N3567/39937
+#EXTINF:-1,Ru- Music 1
+http://mr4k.pk:8080/N5346/N3567/39938
+#EXTINF:-1,Ru- Music Box
+http://mr4k.pk:8080/N5346/N3567/39939
+#EXTINF:-1,Ru- Music TV
+http://mr4k.pk:8080/N5346/N3567/39940
+#EXTINF:-1,Ru- Muzhskoe-Kino
+http://mr4k.pk:8080/N5346/N3567/39941
+#EXTINF:-1,Ru- Muzhskoy
+http://mr4k.pk:8080/N5346/N3567/39942
+#EXTINF:-1,Ru- Native cinema
+http://mr4k.pk:8080/N5346/N3567/39943
+#EXTINF:-1,Ru- Nauka
+http://mr4k.pk:8080/N5346/N3567/39944
+#EXTINF:-1,Ru- Nick Jr
+http://mr4k.pk:8080/N5346/N3567/39945
+#EXTINF:-1,Ru- Nickelodeon
+http://mr4k.pk:8080/N5346/N3567/39946
+#EXTINF:-1,Ru- NTV
+http://mr4k.pk:8080/N5346/N3567/39947
+#EXTINF:-1,Ru- Ocean TV
+http://mr4k.pk:8080/N5346/N3567/39948
+#EXTINF:-1,Ru- Ohotnik i Rybolov
+http://mr4k.pk:8080/N5346/N3567/39949
+#EXTINF:-1,Ru- Otkritiy Mir
+http://mr4k.pk:8080/N5346/N3567/39950
+#EXTINF:-1,Ru- Our football
+http://mr4k.pk:8080/N5346/N3567/39951
+#EXTINF:-1,Ru- Our new movies
+http://mr4k.pk:8080/N5346/N3567/39952
+#EXTINF:-1,Ru- Outdoor Channel
+http://mr4k.pk:8080/N5346/N3567/39953
+#EXTINF:-1,Ru- Paramount Channel
+http://mr4k.pk:8080/N5346/N3567/39954
+#EXTINF:-1,Ru- Paramount Comedy
+http://mr4k.pk:8080/N5346/N3567/39955
+#EXTINF:-1,Ru- Perviy Obrazovatelniy
+http://mr4k.pk:8080/N5346/N3567/39956
+#EXTINF:-1,Ru- Pets
+http://mr4k.pk:8080/N5346/N3567/39957
+#EXTINF:-1,Ru- Planeta RTR
+http://mr4k.pk:8080/N5346/N3567/39958
+#EXTINF:-1,Ru- Prosveshenie
+http://mr4k.pk:8080/N5346/N3567/39959
+#EXTINF:-1,Ru- Psychology 21
+http://mr4k.pk:8080/N5346/N3567/39960
+#EXTINF:-1,Ru- Questions and answers
+http://mr4k.pk:8080/N5346/N3567/39961
+#EXTINF:-1,Ru- RBK
+http://mr4k.pk:8080/N5346/N3567/39962
+#EXTINF:-1,Ru- REN TV
+http://mr4k.pk:8080/N5346/N3567/39963
+#EXTINF:-1,Ru- Retro
+http://mr4k.pk:8080/N5346/N3567/39964
+#EXTINF:-1,Ru- Rossiya KRossiya K
+http://mr4k.pk:8080/N5346/N3567/39965
+#EXTINF:-1,Ru- RT Doc
+http://mr4k.pk:8080/N5346/N3567/39966
+#EXTINF:-1,Ru- RTG TV
+http://mr4k.pk:8080/N5346/N3567/39967
+#EXTINF:-1,Ru- RTV International
+http://mr4k.pk:8080/N5346/N3567/39968
+#EXTINF:-1,Ru- Rusong TV
+http://mr4k.pk:8080/N5346/N3567/39969
+#EXTINF:-1,Ru- Russia
+http://mr4k.pk:8080/N5346/N3567/39970
+#EXTINF:-1,Ru- Russia 1
+http://mr4k.pk:8080/N5346/N3567/39971
+#EXTINF:-1,Ru- Russian Extreme
+http://mr4k.pk:8080/N5346/N3567/39972
+#EXTINF:-1,Ru- Russian illusion
+http://mr4k.pk:8080/N5346/N3567/39973
+#EXTINF:-1,Ru- Russian romance
+http://mr4k.pk:8080/N5346/N3567/39974
+#EXTINF:-1,Ru- Russkaya Komediya
+http://mr4k.pk:8080/N5346/N3567/39975
+#EXTINF:-1,Ru- Russkiy Bestseller
+http://mr4k.pk:8080/N5346/N3567/39976
+#EXTINF:-1,Ru- Russkiy Detektiv
+http://mr4k.pk:8080/N5346/N3567/39977
+#EXTINF:-1,Ru- Ryzhiy
+http://mr4k.pk:8080/N5346/N3567/39978
+#EXTINF:-1,Ru- Sarafan
+http://mr4k.pk:8080/N5346/N3567/39979
+#EXTINF:-1,Ru- Sony Sci Fi
+http://mr4k.pk:8080/N5346/N3567/39980
+#EXTINF:-1,Ru- Sony Turbo
+http://mr4k.pk:8080/N5346/N3567/39981
+#EXTINF:-1,Ru- Soversheno Sekretno
+http://mr4k.pk:8080/N5346/N3567/39982
+#EXTINF:-1,Ru- Spas
+http://mr4k.pk:8080/N5346/N3567/39983
+#EXTINF:-1,Ru- Strana
+http://mr4k.pk:8080/N5346/N3567/39984
+#EXTINF:-1,Ru- STS Love
+http://mr4k.pk:8080/N5346/N3567/39985
+#EXTINF:-1,Ru- TBC
+http://mr4k.pk:8080/N5346/N3567/39986
+#EXTINF:-1,Ru- TBN
+http://mr4k.pk:8080/N5346/N3567/39987
+#EXTINF:-1,Ru- Telecafe
+http://mr4k.pk:8080/N5346/N3567/39988
+#EXTINF:-1,Ru- Teletravel HD
+http://mr4k.pk:8080/N5346/N3567/39989
+#EXTINF:-1,Ru- THT HD
+http://mr4k.pk:8080/N5346/N3567/39990
+#EXTINF:-1,Ru- Time
+http://mr4k.pk:8080/N5346/N3567/39991
+#EXTINF:-1,Ru- TNT 4
+http://mr4k.pk:8080/N5346/N3567/39992
+#EXTINF:-1,Ru- TNT Music
+http://mr4k.pk:8080/N5346/N3567/39993
+#EXTINF:-1,Ru- Tochka TV
+http://mr4k.pk:8080/N5346/N3567/39994
+#EXTINF:-1,Ru- Travel Adventure HD
+http://mr4k.pk:8080/N5346/N3567/39995
+#EXTINF:-1,Ru- Travel Channel HD
+http://mr4k.pk:8080/N5346/N3567/39996
+#EXTINF:-1,RU- National Geographic Wild HD
+http://mr4k.pk:8080/N5346/N3567/39997
+#EXTINF:-1,Ru- TV
+http://mr4k.pk:8080/N5346/N3567/39998
+#EXTINF:-1,Ru- TV 1000
+http://mr4k.pk:8080/N5346/N3567/39999
+#EXTINF:-1,Ru- TV 3
+http://mr4k.pk:8080/N5346/N3567/40000
+#EXTINF:-1,Ru- TV-XXI
+http://mr4k.pk:8080/N5346/N3567/40001
+#EXTINF:-1,Ru- TV1000 Comedy HD
+http://mr4k.pk:8080/N5346/N3567/40002
+#EXTINF:-1,Ru- TV1000 Megahit HD
+http://mr4k.pk:8080/N5346/N3567/40003
+#EXTINF:-1,Ru- TV1000 Premium HD
+http://mr4k.pk:8080/N5346/N3567/40004
+#EXTINF:-1,Ru- TV1000 Ruskoe Kino
+http://mr4k.pk:8080/N5346/N3567/40005
+#EXTINF:-1,Ru- U TV
+http://mr4k.pk:8080/N5346/N3567/40006
+#EXTINF:-1,Ru- Union
+http://mr4k.pk:8080/N5346/N3567/40007
+#EXTINF:-1,Ru- Uspeh
+http://mr4k.pk:8080/N5346/N3567/40008
+#EXTINF:-1,Ru- VH1 Classic
+http://mr4k.pk:8080/N5346/N3567/40009
+#EXTINF:-1,Ru- Viasat Explorer
+http://mr4k.pk:8080/N5346/N3567/40010
+#EXTINF:-1,Ru- Viasat History
+http://mr4k.pk:8080/N5346/N3567/40011
+#EXTINF:-1,Ru- Viasat Nature
+http://mr4k.pk:8080/N5346/N3567/40012
+#EXTINF:-1,Ru- Viasat Sport
+http://mr4k.pk:8080/N5346/N3567/40013
+#EXTINF:-1,Ru-World Fashion
+http://mr4k.pk:8080/N5346/N3567/40014
+#EXTINF:-1,Ru- Zee TV
+http://mr4k.pk:8080/N5346/N3567/40015
+#EXTINF:-1,SE :Animal Planet
+http://mr4k.pk:8080/N5346/N3567/15255
+#EXTINF:-1,SE :Barnmusik TV FHD
+http://mr4k.pk:8080/N5346/N3567/15256
+#EXTINF:-1,SE :BBC Brit FHD
+http://mr4k.pk:8080/N5346/N3567/15257
+#EXTINF:-1,SE :BBC Earth FHD
+http://mr4k.pk:8080/N5346/N3567/15258
+#EXTINF:-1,SE :Boomerang
+http://mr4k.pk:8080/N5346/N3567/15259
+#EXTINF:-1,SE :Cartoon Network
+http://mr4k.pk:8080/N5346/N3567/15260
+#EXTINF:-1,SE :C More First FHD
+http://mr4k.pk:8080/N5346/N3567/15261
+#EXTINF:-1,SE :C More Hockey
+http://mr4k.pk:8080/N5346/N3567/15262
+#EXTINF:-1,SE :C More Live 5 FHD
+http://mr4k.pk:8080/N5346/N3567/15263
+#EXTINF:-1,SE :C More Series FHD
+http://mr4k.pk:8080/N5346/N3567/15264
+#EXTINF:-1,SE :C More Stars FHD
+http://mr4k.pk:8080/N5346/N3567/15265
+#EXTINF:-1,SE :Discovery Science
+http://mr4k.pk:8080/N5346/N3567/15266
+#EXTINF:-1,SE :Disney Channel
+http://mr4k.pk:8080/N5346/N3567/15267
+#EXTINF:-1,SE :Disney Junior
+http://mr4k.pk:8080/N5346/N3567/15268
+#EXTINF:-1,SE :Discovery Channel HD
+http://mr4k.pk:8080/N5346/N3567/15269
+#EXTINF:-1,SE :Disney XD
+http://mr4k.pk:8080/N5346/N3567/15270
+#EXTINF:-1,SE :H2 FHD
+http://mr4k.pk:8080/N5346/N3567/15272
+#EXTINF:-1,SE :History HD
+http://mr4k.pk:8080/N5346/N3567/15273
+#EXTINF:-1,SE :Investigation Discovery
+http://mr4k.pk:8080/N5346/N3567/15274
+#EXTINF:-1,SE :National Geographic FHD
+http://mr4k.pk:8080/N5346/N3567/15275
+#EXTINF:-1,SE :National Geographic Wild FHD
+http://mr4k.pk:8080/N5346/N3567/15276
+#EXTINF:-1,SE :Nickelodeon
+http://mr4k.pk:8080/N5346/N3567/15277
+#EXTINF:-1,SE :NickToons
+http://mr4k.pk:8080/N5346/N3567/15278
+#EXTINF:-1,SE :Nick Jr
+http://mr4k.pk:8080/N5346/N3567/15279
+#EXTINF:-1,SE :Paramount Network
+http://mr4k.pk:8080/N5346/N3567/15280
+#EXTINF:-1,SE :SF-Kanalen
+http://mr4k.pk:8080/N5346/N3567/15281
+#EXTINF:-1,SE :Sjuan HD
+http://mr4k.pk:8080/N5346/N3567/15282
+#EXTINF:-1,SE :Strive Sport 1 FHD  [Live During Events Only]
+http://mr4k.pk:8080/N5346/N3567/15283
+#EXTINF:-1,SE :Strive Sport 2 FHD  [Live During Events Only]
+http://mr4k.pk:8080/N5346/N3567/15284
+#EXTINF:-1,SE :SVT Kunskapskanalen HD
+http://mr4k.pk:8080/N5346/N3567/15285
+#EXTINF:-1,SE :TLC
+http://mr4k.pk:8080/N5346/N3567/15286
+#EXTINF:-1,SE :Travel Channel HD
+http://mr4k.pk:8080/N5346/N3567/15287
+#EXTINF:-1,SE :Viasat Film Action HD
+http://mr4k.pk:8080/N5346/N3567/15288
+#EXTINF:-1,SE :Viasat Film Premiere HD
+http://mr4k.pk:8080/N5346/N3567/15289
+#EXTINF:-1,SE :Viasat Film Family
+http://mr4k.pk:8080/N5346/N3567/15290
+#EXTINF:-1,SE :Viasat Fotboll
+http://mr4k.pk:8080/N5346/N3567/15291
+#EXTINF:-1,SE :Viasat Golf
+http://mr4k.pk:8080/N5346/N3567/15292
+#EXTINF:-1,SE :Viasat Sport Premium
+http://mr4k.pk:8080/N5346/N3567/15293
+#EXTINF:-1,SE :Viasat Sport HD
+http://mr4k.pk:8080/N5346/N3567/15294
+#EXTINF:-1,SE: C More Live 1 HD
+http://mr4k.pk:8080/N5346/N3567/15295
+#EXTINF:-1,SE: C More Live 2 HD
+http://mr4k.pk:8080/N5346/N3567/15296
+#EXTINF:-1,SE: C More Live 3 HD
+http://mr4k.pk:8080/N5346/N3567/15297
+#EXTINF:-1,SE: C More Live 4 HD
+http://mr4k.pk:8080/N5346/N3567/15298
+#EXTINF:-1,SE: C More Fotboll HD
+http://mr4k.pk:8080/N5346/N3567/15299
+#EXTINF:-1,SE :C More Hits FHD
+http://mr4k.pk:8080/N5346/N3567/15300
+#EXTINF:-1,SE :Viasat Film Hits HD
+http://mr4k.pk:8080/N5346/N3567/15301
+#EXTINF:-1,[TR] Yaban TV
+http://mr4k.pk:8080/N5346/N3567/32189
+#EXTINF:-1,[TR] Ben TV
+http://mr4k.pk:8080/N5346/N3567/32190
+#EXTINF:-1,[TR] beIN Movies Turk
+http://mr4k.pk:8080/N5346/N3567/32191
+#EXTINF:-1,[TR] beIN Movies Action
+http://mr4k.pk:8080/N5346/N3567/32192
+#EXTINF:-1,[TR] beIN Movies Action 2
+http://mr4k.pk:8080/N5346/N3567/32193
+#EXTINF:-1,[TR] beIN Movies  Premiere
+http://mr4k.pk:8080/N5346/N3567/32194
+#EXTINF:-1,[TR] Bein Movies YESILCAM
+http://mr4k.pk:8080/N5346/N3567/32195
+#EXTINF:-1,[TR] BEIN SERIES DRAMA
+http://mr4k.pk:8080/N5346/N3567/32196
+#EXTINF:-1,[TR] BEIN SERIES VICE
+http://mr4k.pk:8080/N5346/N3567/32197
+#EXTINF:-1,TR:BEIN BOX OFFICE 1
+http://mr4k.pk:8080/N5346/N3567/32299
+#EXTINF:-1,TR:BEIN BOX OFFICE 2
+http://mr4k.pk:8080/N5346/N3567/32300
+#EXTINF:-1,TR:Moviesmart Turk HD
+http://mr4k.pk:8080/N5346/N3567/32301
+#EXTINF:-1,TR Moviesmart Action HD
+http://mr4k.pk:8080/N5346/N3567/32302
+#EXTINF:-1,TR:Moviesmart Gold HD
+http://mr4k.pk:8080/N5346/N3567/32303
+#EXTINF:-1,TR:Moviesmart Premium HD
+http://mr4k.pk:8080/N5346/N3567/32304
+#EXTINF:-1,TR:MOVIESINEMA_Premium 1_HD
+http://mr4k.pk:8080/N5346/N3567/32305
+#EXTINF:-1,TR:Moviesmart Premium 2 HD
+http://mr4k.pk:8080/N5346/N3567/32306
+#EXTINF:-1,TR:MovieSmart Premium 2 HD
+http://mr4k.pk:8080/N5346/N3567/32307
+#EXTINF:-1,TR:Moviesmart Platin HD
+http://mr4k.pk:8080/N5346/N3567/32308
+#EXTINF:-1,TR:Moviesmart Family HD
+http://mr4k.pk:8080/N5346/N3567/32309
+#EXTINF:-1,TR:Moviesmart Fest HD
+http://mr4k.pk:8080/N5346/N3567/32310
+#EXTINF:-1,TR:MovieSmart Platin 2 HD
+http://mr4k.pk:8080/N5346/N3567/32311
+#EXTINF:-1,TR:BEIN_BOXOFFICE_1HD
+http://mr4k.pk:8080/N5346/N3567/32312
+#EXTINF:-1,TR:BEIN_BOXOFFICE_2HD
+http://mr4k.pk:8080/N5346/N3567/32313
+#EXTINF:-1,TRT-MEB 2
+http://mr4k.pk:8080/N5346/N3567/32314
+#EXTINF:-1,TRT-MEB 1
+http://mr4k.pk:8080/N5346/N3567/32315
+#EXTINF:-1,TRT-MEB 3
+http://mr4k.pk:8080/N5346/N3567/32316
+#EXTINF:-1,PK- HBO Pakistan TV
+http://mr4k.pk:8080/N5346/N3567/32324
+#EXTINF:-1,PK- POP Kids HD
+http://mr4k.pk:8080/N5346/N3567/32325
+#EXTINF:-1,Yu- FOX Crime
+http://mr4k.pk:8080/N5346/N3567/32401
+#EXTINF:-1,Yu- FOX Life
+http://mr4k.pk:8080/N5346/N3567/32402
+#EXTINF:-1,Yu- FOX MOVIES
+http://mr4k.pk:8080/N5346/N3567/32403
+#EXTINF:-1,Yu- Duga TV
+http://mr4k.pk:8080/N5346/N3567/32404
+#EXTINF:-1,Yu- TV Hram
+http://mr4k.pk:8080/N5346/N3567/32405
+#EXTINF:-1,Yu- TV Kraljevo
+http://mr4k.pk:8080/N5346/N3567/32407
+#EXTINF:-1,Yu- Cinemania
+http://mr4k.pk:8080/N5346/N3567/32408
+#EXTINF:-1,Yu- Cinemax 1
+http://mr4k.pk:8080/N5346/N3567/32409
+#EXTINF:-1,Yu- Cinestar Premiere 1
+http://mr4k.pk:8080/N5346/N3567/32411
+#EXTINF:-1,Yu- Cinestar Premiere 2
+http://mr4k.pk:8080/N5346/N3567/32412
+#EXTINF:-1,Yu- HBO Adria
+http://mr4k.pk:8080/N5346/N3567/32413
+#EXTINF:-1,Yu- HBO Comedy
+http://mr4k.pk:8080/N5346/N3567/32414
+#EXTINF:-1,Yu- Mini Ultra TV
+http://mr4k.pk:8080/N5346/N3567/32416
+#EXTINF:-1,Yu- Nickelodeon
+http://mr4k.pk:8080/N5346/N3567/32417
+#EXTINF:-1,Yu- Orlando Kids
+http://mr4k.pk:8080/N5346/N3567/32418
+#EXTINF:-1,Yu- RTL Kockica
+http://mr4k.pk:8080/N5346/N3567/32419
+#EXTINF:-1,Yu- Tom And Jerry HD
+http://mr4k.pk:8080/N5346/N3567/32420
+#EXTINF:-1,Yu- Izvorna TV
+http://mr4k.pk:8080/N5346/N3567/32421
+#EXTINF:-1,Sr- Pink 1
+http://mr4k.pk:8080/N5346/N3567/32424
+#EXTINF:-1,Sr- Pink 2
+http://mr4k.pk:8080/N5346/N3567/32425
+#EXTINF:-1,Sr- Pink 3
+http://mr4k.pk:8080/N5346/N3567/32426
+#EXTINF:-1,Sr- Pink Action
+http://mr4k.pk:8080/N5346/N3567/32427
+#EXTINF:-1,Sr- Pink Classic SRB
+http://mr4k.pk:8080/N5346/N3567/32428
+#EXTINF:-1,Sr- Pink Comedy
+http://mr4k.pk:8080/N5346/N3567/32429
+#EXTINF:-1,Sr- Pink Crime & Mystery
+http://mr4k.pk:8080/N5346/N3567/32430
+#EXTINF:-1,Sr- Pink Extra
+http://mr4k.pk:8080/N5346/N3567/32431
+#EXTINF:-1,Sr- Pink Family
+http://mr4k.pk:8080/N5346/N3567/32432
+#EXTINF:-1,Sr- Pink Film
+http://mr4k.pk:8080/N5346/N3567/32433
+#EXTINF:-1,Sr- Pink Folk 1
+http://mr4k.pk:8080/N5346/N3567/32434
+#EXTINF:-1,SRB- Pink Folk 2 HD
+http://mr4k.pk:8080/N5346/N3567/32435
+#EXTINF:-1,Sr- Pink HAHA SRB
+http://mr4k.pk:8080/N5346/N3567/32436
+#EXTINF:-1,Sr- Pink Hits SRB
+http://mr4k.pk:8080/N5346/N3567/32437
+#EXTINF:-1,Sr- Pink Horror
+http://mr4k.pk:8080/N5346/N3567/32438
+#EXTINF:-1,Sr- Pink Kids
+http://mr4k.pk:8080/N5346/N3567/32439
+#EXTINF:-1,Sr- Pink Kuvar SRB
+http://mr4k.pk:8080/N5346/N3567/32440
+#EXTINF:-1,Sr- Pink LOL SRB
+http://mr4k.pk:8080/N5346/N3567/32441
+#EXTINF:-1,Sr- Pink Movies
+http://mr4k.pk:8080/N5346/N3567/32442
+#EXTINF:-1,Sr- Pink Music
+http://mr4k.pk:8080/N5346/N3567/32443
+#EXTINF:-1,Sr- Pink Music 2 SRB
+http://mr4k.pk:8080/N5346/N3567/32444
+#EXTINF:-1,Sr- Pink Pedia
+http://mr4k.pk:8080/N5346/N3567/32445
+#EXTINF:-1,Sr- Pink Plus
+http://mr4k.pk:8080/N5346/N3567/32446
+#EXTINF:-1,Sr- Pink Premium
+http://mr4k.pk:8080/N5346/N3567/32447
+#EXTINF:-1,Sr- Pink Reality
+http://mr4k.pk:8080/N5346/N3567/32448
+#EXTINF:-1,Sr- Pink Romance
+http://mr4k.pk:8080/N5346/N3567/32449
+#EXTINF:-1,Sr- Pink Sci Fi & Fantasy
+http://mr4k.pk:8080/N5346/N3567/32450
+#EXTINF:-1,Sr- Pink Serije SRB
+http://mr4k.pk:8080/N5346/N3567/32451
+#EXTINF:-1,Sr- Pink Show SRB
+http://mr4k.pk:8080/N5346/N3567/32452
+#EXTINF:-1,Sr- Pink Soap
+http://mr4k.pk:8080/N5346/N3567/32453
+#EXTINF:-1,Sr- Pink Style
+http://mr4k.pk:8080/N5346/N3567/32454
+#EXTINF:-1,Sr- Pink Thriler
+http://mr4k.pk:8080/N5346/N3567/32455
+#EXTINF:-1,Sr- Pink World
+http://mr4k.pk:8080/N5346/N3567/32456
+#EXTINF:-1,Sr- Pink World Cinema
+http://mr4k.pk:8080/N5346/N3567/32457
+#EXTINF:-1,Sr- Pink Western
+http://mr4k.pk:8080/N5346/N3567/32458
+#EXTINF:-1,Sr- Filmbox Extra
+http://mr4k.pk:8080/N5346/N3567/32492
+#EXTINF:-1,Sr- Filmbox Plus
+http://mr4k.pk:8080/N5346/N3567/32493
+#EXTINF:-1,Sr- HBO 1 HD
+http://mr4k.pk:8080/N5346/N3567/32494
+#EXTINF:-1,Sr- HBO 2 HD
+http://mr4k.pk:8080/N5346/N3567/32495
+#EXTINF:-1,Sr- HBO 3 HD
+http://mr4k.pk:8080/N5346/N3567/32496
+#EXTINF:-1,Sr- Pink HAHA
+http://mr4k.pk:8080/N5346/N3567/32497
+#EXTINF:-1,Sr- SciFi
+http://mr4k.pk:8080/N5346/N3567/32498
+#EXTINF:-1,Sr- ATV
+http://mr4k.pk:8080/N5346/N3567/32499
+#EXTINF:-1,SRB- AXN HD
+http://mr4k.pk:8080/N5346/N3567/32500
+#EXTINF:-1,EX-YU: Klasik tv
+http://mr4k.pk:8080/N5346/N3567/32748
+#EXTINF:-1,EX-YU: HBO 1 HD
+http://mr4k.pk:8080/N5346/N3567/32749
+#EXTINF:-1,EX-YU: HBO 2 HD
+http://mr4k.pk:8080/N5346/N3567/32750
+#EXTINF:-1,EX-YU: HBO 3 HD
+http://mr4k.pk:8080/N5346/N3567/32751
+#EXTINF:-1,EX-YU: M1 Film
+http://mr4k.pk:8080/N5346/N3567/32752
+#EXTINF:-1,EX-YU: TV 1000
+http://mr4k.pk:8080/N5346/N3567/32753
+#EXTINF:-1,EX-YU: cinemax
+http://mr4k.pk:8080/N5346/N3567/32754
+#EXTINF:-1,EX-YU: cinestar
+http://mr4k.pk:8080/N5346/N3567/32755
+#EXTINF:-1,EX-YU: Cinestar Aktion
+http://mr4k.pk:8080/N5346/N3567/32756
+#EXTINF:-1,EX-YU: cinestarfan
+http://mr4k.pk:8080/N5346/N3567/32757
+#EXTINF:-1,EX-YU: Fox HD
+http://mr4k.pk:8080/N5346/N3567/32758
+#EXTINF:-1,EX-YU: Fox Life HD
+http://mr4k.pk:8080/N5346/N3567/32759
+#EXTINF:-1,EX-YU: Fox Crime HD
+http://mr4k.pk:8080/N5346/N3567/32760
+#EXTINF:-1,EX-YU: Fox Movies HD
+http://mr4k.pk:8080/N5346/N3567/32761
+#EXTINF:-1,EX-YU: AXN Spin
+http://mr4k.pk:8080/N5346/N3567/32762
+#EXTINF:-1,EX-YU: FilmboxHD
+http://mr4k.pk:8080/N5346/N3567/32763
+#EXTINF:-1,EX-YU: PinkKids
+http://mr4k.pk:8080/N5346/N3567/32764
+#EXTINF:-1,EX-YU: Pink
+http://mr4k.pk:8080/N5346/N3567/32779
+#EXTINF:-1,EX-YU: Pink 2
+http://mr4k.pk:8080/N5346/N3567/32780
+#EXTINF:-1,EX-YU: Pink 3
+http://mr4k.pk:8080/N5346/N3567/32781
+#EXTINF:-1,EX-YU: PINK BH
+http://mr4k.pk:8080/N5346/N3567/32782
+#EXTINF:-1,EX-YU: Pink Action
+http://mr4k.pk:8080/N5346/N3567/32783
+#EXTINF:-1,EX-YU: Pink Extra
+http://mr4k.pk:8080/N5346/N3567/32784
+#EXTINF:-1,EX-YU: Pink Fashion
+http://mr4k.pk:8080/N5346/N3567/32785
+#EXTINF:-1,EX-YU: Pink Film
+http://mr4k.pk:8080/N5346/N3567/32786
+#EXTINF:-1,EX-YU: Pink Folk
+http://mr4k.pk:8080/N5346/N3567/32787
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://mr4k.pk:8080/N5346/N3567/32788
+#EXTINF:-1,EX-YU: Pink Hits 1
+http://mr4k.pk:8080/N5346/N3567/32789
+#EXTINF:-1,EX-YU: Pink Hits 2
+http://mr4k.pk:8080/N5346/N3567/32790
+#EXTINF:-1,EX-YU: Pink Koncert
+http://mr4k.pk:8080/N5346/N3567/32791
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://mr4k.pk:8080/N5346/N3567/32792
+#EXTINF:-1,EX-YU: Pink M
+http://mr4k.pk:8080/N5346/N3567/32793
+#EXTINF:-1,EX-YU: Pink Pedia
+http://mr4k.pk:8080/N5346/N3567/32794
+#EXTINF:-1,EX-YU: Pink Premium
+http://mr4k.pk:8080/N5346/N3567/32795
+#EXTINF:-1,EX-YU: Pink Reality
+http://mr4k.pk:8080/N5346/N3567/32796
+#EXTINF:-1,EX-YU: Pink Serije
+http://mr4k.pk:8080/N5346/N3567/32797
+#EXTINF:-1,EX-YU: Pink Thriller
+http://mr4k.pk:8080/N5346/N3567/32798
+#EXTINF:-1,EX-YU: Pink Zabava
+http://mr4k.pk:8080/N5346/N3567/32799
+#EXTINF:-1,EX-YU: PinkComedy
+http://mr4k.pk:8080/N5346/N3567/32800
+#EXTINF:-1,EX-YU: PinkCrimeMystery
+http://mr4k.pk:8080/N5346/N3567/32801
+#EXTINF:-1,EX-YU: PinkHoror
+http://mr4k.pk:8080/N5346/N3567/32802
+#EXTINF:-1,EX-YU: PinkPlus
+http://mr4k.pk:8080/N5346/N3567/32803
+#EXTINF:-1,EX-YU: PinkRomanse
+http://mr4k.pk:8080/N5346/N3567/32804
+#EXTINF:-1,EX-YU: PinkSciFi
+http://mr4k.pk:8080/N5346/N3567/32805
+#EXTINF:-1,EX-YU: PinkSoap
+http://mr4k.pk:8080/N5346/N3567/32806
+#EXTINF:-1,EX-YU: PinkWestern
+http://mr4k.pk:8080/N5346/N3567/32807
+#EXTINF:-1,EX-YU: PinkWorld
+http://mr4k.pk:8080/N5346/N3567/32808
+#EXTINF:-1,EX-YU: CINEPLEX HD (MK)
+http://mr4k.pk:8080/N5346/N3567/32842
+#EXTINF:-1,EX-YU: Cinestar TV Premiere 1 (MK)
+http://mr4k.pk:8080/N5346/N3567/32843
+#EXTINF:-1,EX-YU: Cinestar TV Premiere 2 (MK)
+http://mr4k.pk:8080/N5346/N3567/32844
+#EXTINF:-1,EX-YU: EDO (MK)
+http://mr4k.pk:8080/N5346/N3567/32845
+#EXTINF:-1,EX-YU: Folk Klub (MK)
+http://mr4k.pk:8080/N5346/N3567/32846
+#EXTINF:-1,EX-YU: Folk MK (MK)
+http://mr4k.pk:8080/N5346/N3567/32847
+#EXTINF:-1,EX-YU: FOX (MK)
+http://mr4k.pk:8080/N5346/N3567/32848
+#EXTINF:-1,EX-YU: Fox Life (MK)
+http://mr4k.pk:8080/N5346/N3567/32849
+#EXTINF:-1,EX-YU: HBO 2 (MK)
+http://mr4k.pk:8080/N5346/N3567/32850
+#EXTINF:-1,EX-YU: HBO 3 HD (MK)
+http://mr4k.pk:8080/N5346/N3567/32851
+#EXTINF:-1,EX-YU: HBO HD (MK)
+http://mr4k.pk:8080/N5346/N3567/32852
+#EXTINF:-1,PL: Canal  Seriale HD
+http://mr4k.pk:8080/N5346/N3567/32952
+#EXTINF:-1,PL: Canal  HD
+http://mr4k.pk:8080/N5346/N3567/32953
+#EXTINF:-1,PL: Canal  Film HD
+http://mr4k.pk:8080/N5346/N3567/32954
+#EXTINF:-1,PL: Canal  Family HD
+http://mr4k.pk:8080/N5346/N3567/32955
+#EXTINF:-1,PL: FOX HD
+http://mr4k.pk:8080/N5346/N3567/32956
+#EXTINF:-1,PL: HBO 3 HD
+http://mr4k.pk:8080/N5346/N3567/32957
+#EXTINF:-1,PL: HBO 2 HD
+http://mr4k.pk:8080/N5346/N3567/32958
+#EXTINF:-1,PL: HBO HD
+http://mr4k.pk:8080/N5346/N3567/32959
+#EXTINF:-1,PL: FILMBOX Premium HD
+http://mr4k.pk:8080/N5346/N3567/32960
+#EXTINF:-1,PL: FILMBOX Family
+http://mr4k.pk:8080/N5346/N3567/32961
+#EXTINF:-1,PL: FILMBOX Extra
+http://mr4k.pk:8080/N5346/N3567/32962
+#EXTINF:-1,PL: FILMBOX Action
+http://mr4k.pk:8080/N5346/N3567/32963
+#EXTINF:-1,PL: Filmbox HD
+http://mr4k.pk:8080/N5346/N3567/32964
+#EXTINF:-1,PL: FOX Comedy HD
+http://mr4k.pk:8080/N5346/N3567/32965
+#EXTINF:-1,PL: Nicktoons HD
+http://mr4k.pk:8080/N5346/N3567/32966
+#EXTINF:-1,PL: Nickelodeon
+http://mr4k.pk:8080/N5346/N3567/32967
+#EXTINF:-1,PL: Boomerang HD
+http://mr4k.pk:8080/N5346/N3567/32968
+#EXTINF:-1,PL: Nick JR
+http://mr4k.pk:8080/N5346/N3567/32969
+#EXTINF:-1,PL: Disney Junior
+http://mr4k.pk:8080/N5346/N3567/32970
+#EXTINF:-1,PL: Comedy Central HD
+http://mr4k.pk:8080/N5346/N3567/32971
+#EXTINF:-1,PL: Comedy Central Family
+http://mr4k.pk:8080/N5346/N3567/32972
+#EXTINF:-1,PL: Cartoon Network HD
+http://mr4k.pk:8080/N5346/N3567/32973
+#EXTINF:-1,PL: Eleven HD
+http://mr4k.pk:8080/N5346/N3567/32974
+#EXTINF:-1,PL: ID HD
+http://mr4k.pk:8080/N5346/N3567/32975
+#EXTINF:-1,PL: Canal  Discovery HD
+http://mr4k.pk:8080/N5346/N3567/32976
+#EXTINF:-1,PL: Disney Channel HD
+http://mr4k.pk:8080/N5346/N3567/32977
+#EXTINF:-1,PL: Discovery Science HD
+http://mr4k.pk:8080/N5346/N3567/32978
+#EXTINF:-1,PL: Discovery Life HD
+http://mr4k.pk:8080/N5346/N3567/32979
+#EXTINF:-1,PL: Discovery Channel HD
+http://mr4k.pk:8080/N5346/N3567/32980
+#EXTINF:-1,PL: National Geographic HD
+http://mr4k.pk:8080/N5346/N3567/32981
+#EXTINF:-1,PL: Nat Geo Wild HD
+http://mr4k.pk:8080/N5346/N3567/32982
+#EXTINF:-1,PL: History Channel HD
+http://mr4k.pk:8080/N5346/N3567/32983
+#EXTINF:-1,PL: TVP Kultura HD
+http://mr4k.pk:8080/N5346/N3567/32984
+#EXTINF:-1,PL: Historia HD
+http://mr4k.pk:8080/N5346/N3567/32985
+#EXTINF:-1,PL: Travel Channel HD
+http://mr4k.pk:8080/N5346/N3567/32986
+#EXTINF:-1,PL: Polsat Viasat Nature HD
+http://mr4k.pk:8080/N5346/N3567/32987
+#EXTINF:-1,PL: Polsat Doku HD
+http://mr4k.pk:8080/N5346/N3567/32988
+#EXTINF:-1,PL: Polsat Viasat History HD
+http://mr4k.pk:8080/N5346/N3567/32989
+#EXTINF:-1,PL: Polsat Music HD
+http://mr4k.pk:8080/N5346/N3567/32990
+#EXTINF:-1,PL: Polsat Romans HD
+http://mr4k.pk:8080/N5346/N3567/32991
+#EXTINF:-1,PL: Polsat Film HD
+http://mr4k.pk:8080/N5346/N3567/32992
+#EXTINF:-1,PL: AXN White
+http://mr4k.pk:8080/N5346/N3567/33010
+#EXTINF:-1,PL: AXN Spin HD
+http://mr4k.pk:8080/N5346/N3567/33011
+#EXTINF:-1,PL: AXN HD
+http://mr4k.pk:8080/N5346/N3567/33012
+#EXTINF:-1,PL: AXN Black
+http://mr4k.pk:8080/N5346/N3567/33013
+#EXTINF:-1,PL: AMC HD
+http://mr4k.pk:8080/N5346/N3567/33014
+#EXTINF:-1,PL: 4FUN.TV
+http://mr4k.pk:8080/N5346/N3567/33015
+#EXTINF:-1,PL: 4FUN Gold Hits
+http://mr4k.pk:8080/N5346/N3567/33016
+
+#EXTINF:-1,VIP: ZEE TV HD
+http://amr4k.us:8080/N5346/N3567/31918
+#EXTINF:-1,VIP: ZEE TV
+http://amr4k.us:8080/N5346/N3567/31919
+#EXTINF:-1,VIP: SONY TV HD
+http://amr4k.us:8080/N5346/N3567/31921
+#EXTINF:-1,VIP: SONY TV SD
+http://amr4k.us:8080/N5346/N3567/31922
+#EXTINF:-1,VIP: SONY TV (UK)
+http://amr4k.us:8080/N5346/N3567/31923
+#EXTINF:-1,STAR SPORTS 1 HD
+http://amr4k.us:8080/N5346/N3567/31924
+#EXTINF:-1,STAR SPORTS 2 SD
+http://amr4k.us:8080/N5346/N3567/31925
+#EXTINF:-1,SONY TEN 1 HD
+http://amr4k.us:8080/N5346/N3567/31926
+#EXTINF:-1,SONY TEN 2 SD
+http://amr4k.us:8080/N5346/N3567/31927
+#EXTINF:-1,SONY TEN 3 SD
+http://amr4k.us:8080/N5346/N3567/31928
+#EXTINF:-1,&PICTURES FHD
+http://amr4k.us:8080/N5346/N3567/31948
+#EXTINF:-1,VIP: CARTOON NETWORK
+http://amr4k.us:8080/N5346/N3567/31951
+#EXTINF:-1,VIP: DICOVERY KIDS HINDI
+http://amr4k.us:8080/N5346/N3567/31952
+#EXTINF:-1,VIP: SONY YAY HINDI
+http://amr4k.us:8080/N5346/N3567/31953
+#EXTINF:-1,IN: KVTV MAIN
+http://amr4k.us:8080/N5346/N3567/31956
+#EXTINF:-1,IN: KVTV LIVE
+http://amr4k.us:8080/N5346/N3567/31957
+#EXTINF:-1,IN: KVTV PLUS
+http://amr4k.us:8080/N5346/N3567/31958
+#EXTINF:-1,VIP: COLORS HD
+http://amr4k.us:8080/N5346/N3567/31959
+#EXTINF:-1,VIP: COLORS TV
+http://amr4k.us:8080/N5346/N3567/31960
+#EXTINF:-1,VIP: COLORS (UK)
+http://amr4k.us:8080/N5346/N3567/31961
+#EXTINF:-1,VIP: &TV HD
+http://amr4k.us:8080/N5346/N3567/31962
+#EXTINF:-1,VIP: &TV
+http://amr4k.us:8080/N5346/N3567/31963
+#EXTINF:-1,VIP: SONY SAB SD
+http://amr4k.us:8080/N5346/N3567/31965
+#EXTINF:-1,VIP: SONY SAB (UK)
+http://amr4k.us:8080/N5346/N3567/31966
+#EXTINF:-1,VIP: SONY PAL
+http://amr4k.us:8080/N5346/N3567/31967
+#EXTINF:-1,VIP: STAR BHARAT (UK)
+http://amr4k.us:8080/N5346/N3567/31968
+#EXTINF:-1,RISHTEY
+http://amr4k.us:8080/N5346/N3567/31969
+#EXTINF:-1,VIP: ZEE ANMOL
+http://amr4k.us:8080/N5346/N3567/31970
+#EXTINF:-1,VIP: DHAMAAL TV
+http://amr4k.us:8080/N5346/N3567/31971
+#EXTINF:-1,VIP: DILLAGI TV
+http://amr4k.us:8080/N5346/N3567/31972
+#EXTINF:-1,VIP: BIG MAGIC
+http://amr4k.us:8080/N5346/N3567/31973
+#EXTINF:-1,VIP: ZEE YUVA MARATHI
+http://amr4k.us:8080/N5346/N3567/31974
+#EXTINF:-1,VIP: ZEE MARATHI SD
+http://amr4k.us:8080/N5346/N3567/31975
+#EXTINF:-1,VIP: &EXPLOR HD
+http://amr4k.us:8080/N5346/N3567/31976
+#EXTINF:-1,VIP: & PICTURES HD
+http://amr4k.us:8080/N5346/N3567/31977
+#EXTINF:-1,VIP: & PICTURES
+http://amr4k.us:8080/N5346/N3567/31978
+#EXTINF:-1,VIP: ZEE CINEMA HD
+http://amr4k.us:8080/N5346/N3567/31979
+#EXTINF:-1,VIP: ZEE CINEMA SD
+http://amr4k.us:8080/N5346/N3567/31980
+#EXTINF:-1,VIP: ZEE CINEMA  UHD
+http://amr4k.us:8080/N5346/N3567/31981
+#EXTINF:-1,VIP: ZEE CINEMA USA
+http://amr4k.us:8080/N5346/N3567/31982
+#EXTINF:-1,VIP: STAR GOLD SD (UK)
+http://amr4k.us:8080/N5346/N3567/31985
+#EXTINF:-1,VIP: SONY MAX
+http://amr4k.us:8080/N5346/N3567/31986
+#EXTINF:-1,VIP: ZEE ACTION
+http://amr4k.us:8080/N5346/N3567/31989
+#EXTINF:-1,VIP: ZEE BOLLYWOOD
+http://amr4k.us:8080/N5346/N3567/31990
+#EXTINF:-1,VIP: ZEE ANMOL CINEMA
+http://amr4k.us:8080/N5346/N3567/31991
+#EXTINF:-1,VIP: UTV HD
+http://amr4k.us:8080/N5346/N3567/31992
+#EXTINF:-1,VIP: COLORS CINEPLEX
+http://amr4k.us:8080/N5346/N3567/31994
+#EXTINF:-1,VIP: B4U Plus
+http://amr4k.us:8080/N5346/N3567/31995
+#EXTINF:-1,VIP: B4U Movies
+http://amr4k.us:8080/N5346/N3567/31996
+#EXTINF:-1,VIP: ENTER 10
+http://amr4k.us:8080/N5346/N3567/31997
+#EXTINF:-1,VIP: MANORANJAN TV
+http://amr4k.us:8080/N5346/N3567/31998
+#EXTINF:-1,VIP: MANORANJAN MOVIES
+http://amr4k.us:8080/N5346/N3567/31999
+#EXTINF:-1,VIP: BOLLYWOOD PREMIER
+http://amr4k.us:8080/N5346/N3567/32000
+#EXTINF:-1,VIP: BOLLYWOOD CLASSIC
+http://amr4k.us:8080/N5346/N3567/32001
+#EXTINF:-1,VIP: BOLLYWOOD NOW
+http://amr4k.us:8080/N5346/N3567/32002
+#EXTINF:-1,NL:NET5 HD NL
+http://amr4k.us:8080/N5346/N3567/33714
+#EXTINF:-1,NL:FOX Channel NL
+http://amr4k.us:8080/N5346/N3567/33715
+#EXTINF:-1,NL:TLC NL
+http://amr4k.us:8080/N5346/N3567/33716
+#EXTINF:-1,NL:24Kitchen NL
+http://amr4k.us:8080/N5346/N3567/33717
+#EXTINF:-1,NL:Film1 Action NL
+http://amr4k.us:8080/N5346/N3567/33719
+#EXTINF:-1,NL:Film1 Drama NL
+http://amr4k.us:8080/N5346/N3567/33720
+#EXTINF:-1,NL:Film1 Family NL
+http://amr4k.us:8080/N5346/N3567/33721
+#EXTINF:-1,NL:Film1 Premiere HD NL
+http://amr4k.us:8080/N5346/N3567/33722
+#EXTINF:-1,NL:Comedy Central
+http://amr4k.us:8080/N5346/N3567/33723
+#EXTINF:-1,NL: Comedy Central extra
+http://amr4k.us:8080/N5346/N3567/33724
+#EXTINF:-1,NL: MTV HD
+http://amr4k.us:8080/N5346/N3567/33725
+#EXTINF:-1,NL:Discovery Channel NL
+http://amr4k.us:8080/N5346/N3567/33726
+#EXTINF:-1,NL: Discovery SCIENCE HD
+http://amr4k.us:8080/N5346/N3567/33727
+#EXTINF:-1,NL: Discovery WORLD
+http://amr4k.us:8080/N5346/N3567/33728
+#EXTINF:-1,NL: National Geographic
+http://amr4k.us:8080/N5346/N3567/33729
+#EXTINF:-1,NL: National Geographic Wild HD
+http://amr4k.us:8080/N5346/N3567/33730
+#EXTINF:-1,NL:Investigation Discovery NL
+http://amr4k.us:8080/N5346/N3567/33731
+#EXTINF:-1,NL: Animal Planet
+http://amr4k.us:8080/N5346/N3567/33732
+#EXTINF:-1,NL:History HD BNL NL
+http://amr4k.us:8080/N5346/N3567/33733
+#EXTINF:-1,NL:Disney Channel NL
+http://amr4k.us:8080/N5346/N3567/33734
+#EXTINF:-1,NL:Veronica/DisneyXD HD NL
+http://amr4k.us:8080/N5346/N3567/33735
+#EXTINF:-1,NL:Nickelodeon NL
+http://amr4k.us:8080/N5346/N3567/33736
+#EXTINF:-1,NL: Nick Junior
+http://amr4k.us:8080/N5346/N3567/33737
+#EXTINF:-1,NL: Baby TV
+http://amr4k.us:8080/N5346/N3567/33738
+#EXTINF:-1,NL:Boomerang NL
+http://amr4k.us:8080/N5346/N3567/33739
+#EXTINF:-1,NL:Cartoon Network NL
+http://amr4k.us:8080/N5346/N3567/33740
+#EXTINF:-1,FR: BEIN MAX 5HD(V)
+http://amr4k.us:8080/N5346/N3567/34222
+#EXTINF:-1,FR: BEIN MAX 6HD(V)
+http://amr4k.us:8080/N5346/N3567/34223
+#EXTINF:-1,FR: BEIN MAX 7HD(V)
+http://amr4k.us:8080/N5346/N3567/34224
+#EXTINF:-1,FR: BEIN MAX 8HD(V)
+http://amr4k.us:8080/N5346/N3567/34225
+#EXTINF:-1,FR: BEIN MAX 9HD(V)
+http://amr4k.us:8080/N5346/N3567/34226
+#EXTINF:-1,FR: BEIN MAX 10HD(V)
+http://amr4k.us:8080/N5346/N3567/34227
+#EXTINF:-1,FOX Premium Action HD (G)
+http://amr4k.us:8080/N5346/N3567/34250
+#EXTINF:-1,CANALE 5 HD
+http://amr4k.us:8080/N5346/N3567/34559
+#EXTINF:-1,CANALE 5
+http://amr4k.us:8080/N5346/N3567/34560
+#EXTINF:-1,BOING
+http://amr4k.us:8080/N5346/N3567/34561
+#EXTINF:-1,20 MEDIASET HD
+http://amr4k.us:8080/N5346/N3567/34562
+#EXTINF:-1,20 MEDIASET
+http://amr4k.us:8080/N5346/N3567/34563
+#EXTINF:-1,FRISBEE HD
+http://amr4k.us:8080/N5346/N3567/34564
+#EXTINF:-1,La 7 HD
+http://amr4k.us:8080/N5346/N3567/34565
+#EXTINF:-1,Disney Channel HD
+http://amr4k.us:8080/N5346/N3567/34566
+#EXTINF:-1,Nickelodeon
+http://amr4k.us:8080/N5346/N3567/34567
+#EXTINF:-1,Nick Jr
+http://amr4k.us:8080/N5346/N3567/34568
+#EXTINF:-1,Baby TV HD
+http://amr4k.us:8080/N5346/N3567/34569
+#EXTINF:-1,Dea Junior
+http://amr4k.us:8080/N5346/N3567/34570
+#EXTINF:-1,Super!
+http://amr4k.us:8080/N5346/N3567/34571
+#EXTINF:-1,K2
+http://amr4k.us:8080/N5346/N3567/34572
+#EXTINF:-1,Frisbee
+http://amr4k.us:8080/N5346/N3567/34573
+#EXTINF:-1,Rai YoYo HD
+http://amr4k.us:8080/N5346/N3567/34574
+#EXTINF:-1,Rai Gulp
+http://amr4k.us:8080/N5346/N3567/34575
+#EXTINF:-1,Cartoonito (Backup)
+http://amr4k.us:8080/N5346/N3567/34576
+#EXTINF:-1,Boing
+http://amr4k.us:8080/N5346/N3567/34577
+#EXTINF:-1,Boing (Backup)
+http://amr4k.us:8080/N5346/N3567/34578
+#EXTINF:-1,Rai News
+http://amr4k.us:8080/N5346/N3567/34579
+#EXTINF:-1,Sky Cinema Due HD
+http://amr4k.us:8080/N5346/N3567/34580
+#EXTINF:-1,Sky Cinema Action HD
+http://amr4k.us:8080/N5346/N3567/34581
+#EXTINF:-1,Sky Cinema Drama HD
+http://amr4k.us:8080/N5346/N3567/34582
+#EXTINF:-1,Sky Cinema Drama (Backup)
+http://amr4k.us:8080/N5346/N3567/34583
+#EXTINF:-1,Sky Cinema Action FHD
+http://amr4k.us:8080/N5346/N3567/34584
+#EXTINF:-1,Sky Cinema Comedy HD
+http://amr4k.us:8080/N5346/N3567/34585
+#EXTINF:-1,Sky Cinema Family HD
+http://amr4k.us:8080/N5346/N3567/34586
+#EXTINF:-1,Sky Cinema Collection (Backup)
+http://amr4k.us:8080/N5346/N3567/34587
+#EXTINF:-1,Sky Cinema Romance HD
+http://amr4k.us:8080/N5346/N3567/34588
+#EXTINF:-1,Sky Cinema Romance (Backup)
+http://amr4k.us:8080/N5346/N3567/34589
+#EXTINF:-1,Sky Cinema Suspense HD
+http://amr4k.us:8080/N5346/N3567/34590
+#EXTINF:-1,Sky Cinema Family FHD
+http://amr4k.us:8080/N5346/N3567/34591
+#EXTINF:-1,Sky Cinema Due HD
+http://amr4k.us:8080/N5346/N3567/34592
+#EXTINF:-1,Premium Cinema HD
+http://amr4k.us:8080/N5346/N3567/34593
+#EXTINF:-1,Premium Cinema (Backup)
+http://amr4k.us:8080/N5346/N3567/34594
+#EXTINF:-1,Premium Comedy HD
+http://amr4k.us:8080/N5346/N3567/34595
+#EXTINF:-1,Premium Comedy HD
+http://amr4k.us:8080/N5346/N3567/34596
+#EXTINF:-1,Premium Action Full HD
+http://amr4k.us:8080/N5346/N3567/34597
+#EXTINF:-1,Premium Crime HD
+http://amr4k.us:8080/N5346/N3567/34598
+#EXTINF:-1,Premium Crime (Backup)
+http://amr4k.us:8080/N5346/N3567/34599
+#EXTINF:-1,Top Crime HD
+http://amr4k.us:8080/N5346/N3567/34600
+#EXTINF:-1,Premium Stories FULL HD
+http://amr4k.us:8080/N5346/N3567/34601
+#EXTINF:-1,Premium Stories HD
+http://amr4k.us:8080/N5346/N3567/34602
+#EXTINF:-1,Premium Emotion HD
+http://amr4k.us:8080/N5346/N3567/34603
+#EXTINF:-1,Premium Emotion HD
+http://amr4k.us:8080/N5346/N3567/34604
+#EXTINF:-1,Nat Geo HD
+http://amr4k.us:8080/N5346/N3567/34622
+#EXTINF:-1,Nat Geo Wild HD
+http://amr4k.us:8080/N5346/N3567/34623
+#EXTINF:-1,Discovery Channel HD
+http://amr4k.us:8080/N5346/N3567/34624
+#EXTINF:-1,Discovery Science HD
+http://amr4k.us:8080/N5346/N3567/34625
+#EXTINF:-1,Sky Arte HD
+http://amr4k.us:8080/N5346/N3567/34626
+#EXTINF:-1,History HD
+http://amr4k.us:8080/N5346/N3567/34627
+#EXTINF:-1,|| PT || RTP 1 HD
+http://amr4k.us:8080/N5346/N3567/35816
+#EXTINF:-1,|| PT || RTP 2 HD
+http://amr4k.us:8080/N5346/N3567/35817
+#EXTINF:-1,|| PT || SIC HD
+http://amr4k.us:8080/N5346/N3567/35818
+#EXTINF:-1,|| PT || TVI HD
+http://amr4k.us:8080/N5346/N3567/35819
+#EXTINF:-1,|| PT || CMTV HD
+http://amr4k.us:8080/N5346/N3567/35820
+#EXTINF:-1,|| PT || TVI 24 HD
+http://amr4k.us:8080/N5346/N3567/35821
+#EXTINF:-1,|| PT || SIC NOTICIAS HD
+http://amr4k.us:8080/N5346/N3567/35822
+#EXTINF:-1,|| PT || RTP 3
+http://amr4k.us:8080/N5346/N3567/35823
+#EXTINF:-1,|| PT || A BOLA TV
+http://amr4k.us:8080/N5346/N3567/35824
+#EXTINF:-1,|| PT || PORTO CANAL HD
+http://amr4k.us:8080/N5346/N3567/35825
+#EXTINF:-1,|| PT || TVI FICCAO HD
+http://amr4k.us:8080/N5346/N3567/35826
+#EXTINF:-1,|| PT || TVI REALITY
+http://amr4k.us:8080/N5346/N3567/35827
+#EXTINF:-1,|| PT || SIC MULHER HD
+http://amr4k.us:8080/N5346/N3567/35828
+#EXTINF:-1,|| PT || SIC CARAS
+http://amr4k.us:8080/N5346/N3567/35829
+#EXTINF:-1,|| PT || SIC RADICAL HD
+http://amr4k.us:8080/N5346/N3567/35830
+#EXTINF:-1,|| PT || CANAL Q
+http://amr4k.us:8080/N5346/N3567/35831
+#EXTINF:-1,|| PT || RTP MADEIRA
+http://amr4k.us:8080/N5346/N3567/35832
+#EXTINF:-1,|| PT || RTP MEMORIA
+http://amr4k.us:8080/N5346/N3567/35833
+#EXTINF:-1,|| PT || RTP AFRICA
+http://amr4k.us:8080/N5346/N3567/35834
+#EXTINF:-1,|| PT || GLOBO NOW
+http://amr4k.us:8080/N5346/N3567/35835
+#EXTINF:-1,|| PT || DISNEY CHANNEL
+http://amr4k.us:8080/N5346/N3567/35836
+#EXTINF:-1,|| PT || DISNEY JUNIOR
+http://amr4k.us:8080/N5346/N3567/35837
+#EXTINF:-1,|| PT || NICKELODEON
+http://amr4k.us:8080/N5346/N3567/35838
+#EXTINF:-1,|| PT || NICK JUNIOR
+http://amr4k.us:8080/N5346/N3567/35839
+#EXTINF:-1,|| PT || PANDA
+http://amr4k.us:8080/N5346/N3567/35840
+#EXTINF:-1,|| PT || PANDA BIGGS
+http://amr4k.us:8080/N5346/N3567/35841
+#EXTINF:-1,|| PT || CARTOON NETWORK
+http://amr4k.us:8080/N5346/N3567/35842
+#EXTINF:-1,|| PT || SIC KIDS
+http://amr4k.us:8080/N5346/N3567/35843
+#EXTINF:-1,|| PT || JIM JAM
+http://amr4k.us:8080/N5346/N3567/35844
+#EXTINF:-1,|| PT || BABY TV
+http://amr4k.us:8080/N5346/N3567/35845
+#EXTINF:-1,|| PT || TV CINE 1 HD
+http://amr4k.us:8080/N5346/N3567/35890
+#EXTINF:-1,|| PT || TV CINE 1
+http://amr4k.us:8080/N5346/N3567/35891
+#EXTINF:-1,|| PT || TV CINE 2 HD
+http://amr4k.us:8080/N5346/N3567/35892
+#EXTINF:-1,|| PT || TV CINE 2
+http://amr4k.us:8080/N5346/N3567/35893
+#EXTINF:-1,|| PT || TV CINE 3 HD
+http://amr4k.us:8080/N5346/N3567/35894
+#EXTINF:-1,|| PT || TV CINE 3
+http://amr4k.us:8080/N5346/N3567/35895
+#EXTINF:-1,|| PT || TV CINE 4 HD
+http://amr4k.us:8080/N5346/N3567/35896
+#EXTINF:-1,|| PT || TV CINE 4
+http://amr4k.us:8080/N5346/N3567/35897
+#EXTINF:-1,|| PT || NOS STUDIOS HD
+http://amr4k.us:8080/N5346/N3567/35898
+#EXTINF:-1,|| PT || HOLLYWOOD HD
+http://amr4k.us:8080/N5346/N3567/35899
+#EXTINF:-1,|| PT || HOLLYWOOD
+http://amr4k.us:8080/N5346/N3567/35900
+#EXTINF:-1,|| PT || FOX MOVIES HD
+http://amr4k.us:8080/N5346/N3567/35901
+#EXTINF:-1,|| PT || FOX LIFE HD
+http://amr4k.us:8080/N5346/N3567/35902
+#EXTINF:-1,|| PT || FOX LIFE
+http://amr4k.us:8080/N5346/N3567/35903
+#EXTINF:-1,|| PT || FOX HD
+http://amr4k.us:8080/N5346/N3567/35904
+#EXTINF:-1,|| PT || FOX
+http://amr4k.us:8080/N5346/N3567/35905
+#EXTINF:-1,|| PT || FOX CRIME HD
+http://amr4k.us:8080/N5346/N3567/35906
+#EXTINF:-1,|| PT || FOX CRIME
+http://amr4k.us:8080/N5346/N3567/35907
+#EXTINF:-1,|| PT || FOX COMEDY HD
+http://amr4k.us:8080/N5346/N3567/35908
+#EXTINF:-1,|| PT || FOX COMEDY
+http://amr4k.us:8080/N5346/N3567/35909
+#EXTINF:-1,|| PT || AXN WHITE HD
+http://amr4k.us:8080/N5346/N3567/35910
+#EXTINF:-1,|| PT || AXN WHITE
+http://amr4k.us:8080/N5346/N3567/35911
+#EXTINF:-1,|| PT || AXN HD
+http://amr4k.us:8080/N5346/N3567/35912
+#EXTINF:-1,|| PT || AXN
+http://amr4k.us:8080/N5346/N3567/35913
+#EXTINF:-1,|| PT || AXN BLACK HD
+http://amr4k.us:8080/N5346/N3567/35914
+#EXTINF:-1,|| PT || AXN BLACK
+http://amr4k.us:8080/N5346/N3567/35915
+#EXTINF:-1,|| PT || AMC HD
+http://amr4k.us:8080/N5346/N3567/35916
+#EXTINF:-1,|| PT || AMC
+http://amr4k.us:8080/N5346/N3567/35917
+#EXTINF:-1,|| PT || SYFY HD
+http://amr4k.us:8080/N5346/N3567/35918
+#EXTINF:-1,|| PT || CINEMUNDO HD
+http://amr4k.us:8080/N5346/N3567/35919
+#EXTINF:-1,|| PT || CINEMUNDO
+http://amr4k.us:8080/N5346/N3567/35920
+#EXTINF:-1,|| PT || TLC
+http://amr4k.us:8080/N5346/N3567/35921
+#EXTINF:-1,GR:Nova Premiere Passion HD+
+http://amr4k.us:8080/N5346/N3567/36093
+#EXTINF:-1,GR:Nova Premiere Horror HD+
+http://amr4k.us:8080/N5346/N3567/36094
+#EXTINF:-1,GR:Nova Premiere History HD+
+http://amr4k.us:8080/N5346/N3567/36095
+#EXTINF:-1,GR:Nova Premiere HELLENIC
+http://amr4k.us:8080/N5346/N3567/36096
+#EXTINF:-1,GR:Cosmote Cinema 1
+http://amr4k.us:8080/N5346/N3567/36097
+#EXTINF:-1,GR:Cosmote Cinema 2
+http://amr4k.us:8080/N5346/N3567/36098
+#EXTINF:-1,GR:Cosmote Cinema 2 HD
+http://amr4k.us:8080/N5346/N3567/36099
+#EXTINF:-1,GR:Cosmote Cinema 3
+http://amr4k.us:8080/N5346/N3567/36100
+#EXTINF:-1,GR:COSMOTE Cinema 3
+http://amr4k.us:8080/N5346/N3567/36101
+#EXTINF:-1,GR:Cosmote Cinema 4
+http://amr4k.us:8080/N5346/N3567/36102
+#EXTINF:-1,GR:COSMOTE Series
+http://amr4k.us:8080/N5346/N3567/36103
+#EXTINF:-1,GR:NOVA PREMIERE 1
+http://amr4k.us:8080/N5346/N3567/36104
+#EXTINF:-1,GR:NOVA PREMIERE 2
+http://amr4k.us:8080/N5346/N3567/36105
+#EXTINF:-1,GR:NOVA PREMIERE 3
+http://amr4k.us:8080/N5346/N3567/36106
+#EXTINF:-1,GR:NOVA PREMIERE 4
+http://amr4k.us:8080/N5346/N3567/36107
+#EXTINF:-1,GR:Nova Cinema Action HD
+http://amr4k.us:8080/N5346/N3567/36108
+#EXTINF:-1,GR:Nova Cinema 2  HD
+http://amr4k.us:8080/N5346/N3567/36109
+#EXTINF:-1,GR:Nova Cinema 3 HD
+http://amr4k.us:8080/N5346/N3567/36110
+#EXTINF:-1,GR:Nova Cinema 4 HD
+http://amr4k.us:8080/N5346/N3567/36111
+#EXTINF:-1,UK: SKY CIMEMA ACTION
+http://amr4k.us:8080/N5346/N3567/36147
+#EXTINF:-1,UK: SKY CINEMA HITS
+http://amr4k.us:8080/N5346/N3567/36148
+#EXTINF:-1,UK: TCT Kids
+http://amr4k.us:8080/N5346/N3567/36149
+#EXTINF:-1,UK: 24/7 Sci-Fi Movies
+http://amr4k.us:8080/N5346/N3567/36150
+#EXTINF:-1,RO | Favorit TV
+http://amr4k.us:8080/N5346/N3567/39616
+#EXTINF:-1,RO | Film Cafe
+http://amr4k.us:8080/N5346/N3567/39617
+#EXTINF:-1,RO | Fishing and Hunting
+http://amr4k.us:8080/N5346/N3567/39618
+#EXTINF:-1,RO | Food Network
+http://amr4k.us:8080/N5346/N3567/39619
+#EXTINF:-1,RO | Happy Channel
+http://amr4k.us:8080/N5346/N3567/39620
+#EXTINF:-1,RO | HBO
+http://amr4k.us:8080/N5346/N3567/39621
+#EXTINF:-1,RO | HBO 3
+http://amr4k.us:8080/N5346/N3567/39622
+#EXTINF:-1,RO | HBO2
+http://amr4k.us:8080/N5346/N3567/39623
+#EXTINF:-1,RO | HBOmania
+http://amr4k.us:8080/N5346/N3567/39624
+#EXTINF:-1,RO | History
+http://amr4k.us:8080/N5346/N3567/39625
+#EXTINF:-1,RO | HIT MUSIC
+http://amr4k.us:8080/N5346/N3567/39626
+#EXTINF:-1,Bein Sport HD
+http://amr4k.us:8080/N5346/N3567/30790
+#EXTINF:-1,Bein Sport News HD
+http://amr4k.us:8080/N5346/N3567/30791
+#EXTINF:-1,Bein Sport HD1 1080i
+http://amr4k.us:8080/N5346/N3567/30792
+#EXTINF:-1,Bein Sport HD2 1080i
+http://amr4k.us:8080/N5346/N3567/30793
+#EXTINF:-1,Bein Sport HD3 1080i
+http://amr4k.us:8080/N5346/N3567/30794
+#EXTINF:-1,Bein Sport HD4 1080i
+http://amr4k.us:8080/N5346/N3567/30795
+#EXTINF:-1,Bein Sport HD6 1080i
+http://amr4k.us:8080/N5346/N3567/30797
+#EXTINF:-1,Bein Sport HD7 1080i
+http://amr4k.us:8080/N5346/N3567/30798
+#EXTINF:-1,Bein Sport HD8 1080i
+http://amr4k.us:8080/N5346/N3567/30799
+#EXTINF:-1,Bein Sport HD9 1080i
+http://amr4k.us:8080/N5346/N3567/30800
+#EXTINF:-1,Bein Sport HD10 1080i
+http://amr4k.us:8080/N5346/N3567/30801
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://amr4k.us:8080/N5346/N3567/30802
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://amr4k.us:8080/N5346/N3567/30803
+#EXTINF:-1,Bein Sport HD13 EN 1080i
+http://amr4k.us:8080/N5346/N3567/30804
+#EXTINF:-1,Bein Sport HD14 Fr 1080i
+http://amr4k.us:8080/N5346/N3567/30805
+#EXTINF:-1,Bein Sport HD1 720P
+http://amr4k.us:8080/N5346/N3567/30809
+#EXTINF:-1,Bein Sport HD5 720P
+http://amr4k.us:8080/N5346/N3567/30813
+#EXTINF:-1,Bein Sport HD7 720P
+http://amr4k.us:8080/N5346/N3567/30815
+#EXTINF:-1,Bein Alkass 1 HD
+http://amr4k.us:8080/N5346/N3567/30817
+#EXTINF:-1,Bein Alkass 2 HD
+http://amr4k.us:8080/N5346/N3567/30818
+#EXTINF:-1,Bein Alkass 4 HD
+http://amr4k.us:8080/N5346/N3567/30819
+#EXTINF:-1,Bein Alkass 5 HD
+http://amr4k.us:8080/N5346/N3567/30820
